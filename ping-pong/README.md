@@ -1,10 +1,10 @@
-## L1: Ping Pong with Node.js, Express, Socket.IO
+## Ping Pong with Node.js, Express, Socket.IO
 ---
 #####Software : `node.js, express, socket.io, git`
 #####OS : `Ubuntu 12.04 (Linux 3.2.0-58-generic)`
 ##### Author : `Abhishek`
  ---
-### Installation Guide [As per Tutorial-1]
+### Installation Guide
 **1.** Install **Node.js** web server using following commands :
 ```
 $ sudo apt-get update
