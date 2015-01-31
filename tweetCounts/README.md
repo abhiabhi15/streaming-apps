@@ -1,4 +1,4 @@
-## Project 1: Tweet Sentiment Analyzer
+## Tweet Counter for Given Words
 ---
 #####Software : `node.js, express, socket.io, jade, ntwitter`
 #####OS : `Ubuntu 12.04 (Linux 3.2.0-58-generic)`
