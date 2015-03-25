@@ -14,7 +14,7 @@ var Server = mongo.Server,
     BSON = mongo.BSONPure;
 
 // Words or hashtags for tracking tweets
-var words = ['CWC2015','CWC15','INDVSAUS','AUSVSIND','cricket']; 
+var words = ['CWC2015','CWC15','INDVSAUS','AUSVSIND','WorldCup2015']; 
 console.log("Tweets streaming for words : [" + words  + "] ");
 
 var server = new Server('localhost', 27017, {auto_reconnect: true});
@@ -31,22 +31,27 @@ db.open(function(err, db) {
 //				console.log(tweet);
 				var twt = {};
 				twt.id = tweet.id;
-				twt.id_str = tweet.id_str;
 				twt.created_at = tweet.created_at;
-				twt.text = tweet.text;
-				twt.retweet_count = tweet.retweet_count;
-				twt.favorite_count = tweet.favorite_count;
-				twt.favorited = tweet.favorited;
-				twt.retweeted = tweet.retweeted;
-				twt.timestamp_ms = tweet.timestamp_ms;
+				twt.txt = tweet.text;
+				twt.rc = tweet.retweet_count;
+				twt.fc = tweet.favorite_count;
+				twt.ts = tweet.timestamp_ms;
 				if( tweet.user != null){
-					twt.timezone = tweet.user.time_zone;
-					twt.location = tweet.user.location;
+					if(tweet.user.time_zone != null){
+						twt.tz = tweet.user.time_zone;
+					}
+					if(tweet.user.location != null && tweet.user.location.length > 0){
+						twt.loc = tweet.user.location;
+					}
 				}
 				if(tweet.geo != null){
 					twt.geo = tweet.geo;
-					twt.coordinates = tweet.coordinates;
-					twt.place = tweet.place;
+					if(tweet.place != null){
+						twt.p_type = tweet.place.place_type;	
+						twt.p_name = tweet.place.full_name;
+						twt.c_code = 	tweet.place.country_code;
+						twt.country = 	tweet.place.country;															
+					}
 				}
 	            collection.insert({'tweet': twt});
             });
