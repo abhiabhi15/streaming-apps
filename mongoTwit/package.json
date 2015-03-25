@@ -1,0 +1,10 @@
+{
+  "name": "myTwitApp",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "debug": "~2.1.1",
+    "mongodb": "^2.0.24",
+    "ntwitter": "^0.5.0"
+  }
+}
