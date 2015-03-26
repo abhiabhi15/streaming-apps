@@ -14,7 +14,7 @@ var Server = mongo.Server,
     BSON = mongo.BSONPure;
 
 // Words or hashtags for tracking tweets
-var words = ['CWC2015','CWC15','INDVSAUS','AUSVSIND','WorldCup2015']; 
+var words = ['CWC2015','CWC15','INDVSAUS','AUSVSIND','WorldCup2015','IND VS AUS', 'AUS VS IND', 'Worldcup', 'ICCWorldCup2015']; 
 console.log("Tweets streaming for words : [" + words  + "] ");
 
 var server = new Server('localhost', 27017, {auto_reconnect: true});
