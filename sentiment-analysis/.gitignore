@@ -1,0 +1,8 @@
+*.Rdata
+*.json
+*.Rhistory
+*.R~
+*.json~
+.Rproj.user
+*.Rproj
+*.RData
