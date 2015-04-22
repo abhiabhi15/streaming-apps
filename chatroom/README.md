@@ -1,4 +1,4 @@
-## B1: Chat Client with Node.js, Express, Socket.IO, Redis
+## B1: Multi Client Chat with Node.js, Express, Socket.IO, Redis
 ---
 #####Software : `node.js, express, socket.io, redis`
 #####OS : `Ubuntu 12.04 (Linux 3.2.0-58-generic)`
