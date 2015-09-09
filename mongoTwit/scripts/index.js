@@ -14,7 +14,7 @@ var Server = mongo.Server,
     BSON = mongo.BSONPure;
 
 // Words or hashtags for tracking tweets
-var words = ['CWC2015','CWC15','INDVSAUS','AUSVSIND','WorldCup2015','IND VS AUS', 'AUS VS IND', 'Worldcup', 'ICCWorldCup2015']; 
+var words = ['love','CWC15','INDVSAUS','AUSVSIND','WorldCup2015','IND VS AUS', 'AUS VS IND', 'Worldcup', 'ICCWorldCup2015']; 
 console.log("Tweets streaming for words : [" + words  + "] ");
 
 var server = new Server('localhost', 27017, {auto_reconnect: true});
@@ -27,7 +27,7 @@ db.open(function(err, db) {
     { track: words },
     function(stream) {
         stream.on('data', function(tweet) {
-            db.collection('cwcTweets', function(err, collection) {
+            db.collection('sample', function(err, collection) {
 //				console.log(tweet);
 				var twt = {};
 				twt.id = tweet.id;
