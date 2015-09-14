@@ -65,19 +65,29 @@ var getConnections = function(db, type, callback) {
 
 	 	userCol.find().toArray(function(err, docs) {
     		assert.equal(err, null);
-
-		    for(var i=0; i < 2; i++){
-				var connJson = {};
-		        var user_id = docs[i].user_id;
-				connJson.host = user_id;
+			var total = docs.length;
+			var limit = 15;
+			var counter = 0;
+		    while(counter <= total){
+				for(var i=counter; i < counter+limit; i++){
+					var connJson = {};
+		        	var user_id = docs[i].user_id;
+					connJson.host = user_id;
 		 
-		        getTypeConnections(connJson, type, function (connObj){
+			        getTypeConnections(connJson, type, function (connObj){
 						typeCol.insert(connObj);
-        	    });
-    		}
-   		});
+        		    });
+    			}
+				counter += counter + limit;
+				if((counter + limit) > total){
+					limit  = total - counter;
+				}
+			}
+		});
 	}
 }
+
+
 
 var getTypeConnections = function(connJson, type, callback){
 
@@ -101,3 +111,7 @@ var getTypeConnections = function(connJson, type, callback){
 	}
 }
 
+function sleepFor( sleepDuration ){
+    var now = new Date().getTime();
+    while(new Date().getTime() < now + sleepDuration){ /* do nothing */ } 
+}

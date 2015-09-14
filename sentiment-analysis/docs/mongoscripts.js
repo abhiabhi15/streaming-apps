@@ -11,12 +11,24 @@ db.twit1.aggregate(
    ]
 )
 
-db.newTwit.find({"tweet.geo" : {$exists:true}}).count()
+db.newTwit.find({"tweet.tz" : {$exists:true}}).count()
 
 #17,298
+
+#401627
 
 
 db.mytweets.aggregate([{ $sort : { 'tweet.ts' : 1} }]).forEach(function(doc) {
     db.cwctweets.insert(doc);
 });
 
+
+db.cwctweets.find().forEach( function(obj) {
+    obj.my_value= parseInt(obj.tweet.ts);
+    db.my_collection.save(obj);
+
+});
+
+db.cwctweets.find({ "tweet.ts" : { $gt :  1427329782738, $lt : 1427329787738}}).count();
+
+db.runCommand ( { count: "cwctweets", key: "tweet.sentiment" } )

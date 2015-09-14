@@ -30,7 +30,7 @@ var genderCount = 0;
 
 var findDocuments = function(db, callback) {
   // Get the documents collection
-  var collection = db.collection('a_2000');
+  var collection = db.collection('a_2001');
   
   // Find some documents
   collection.find().toArray(function(err, docs) {
