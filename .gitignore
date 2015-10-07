@@ -1,0 +1,7 @@
+*.project
+*.swp
+*/node_modules
+*.log
+*.class
+*.iml
+*/bin/www

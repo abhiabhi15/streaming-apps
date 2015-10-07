@@ -1,0 +1,1000 @@
+Screen Name =rapsody, followers = 60939, location = Carolina del Norte, friends = 1579, ratio = 0.025911157058698044
+Screen Name =newsobserver, followers = 78040, location = Raleigh, NC, friends = 416, ratio = 0.005330599692465402
+Screen Name =BigGame81, followers = 43139, location = Raleigh, NC, friends = 1387, ratio = 0.03215188112844526
+Screen Name =benstokes38, followers = 85640, location = Durham, friends = 557, ratio = 0.006503970107426436
+Screen Name =nnovo1010, followers = 105254, location = Raleigh, NC, friends = 488, ratio = 0.004636403367092937
+Screen Name =LizardLickTowin, followers = 161673, location = Lizard Lick NC, friends = 1059, ratio = 0.006550258855838638
+Screen Name =wilmyers, followers = 68663, location = Thomasville, NC , friends = 235, ratio = 0.0034225128526280527
+Screen Name =zengerle, followers = 3743, location = Chapel Hill, NC, friends = 304, ratio = 0.08121827411167512
+Screen Name =davemirra, followers = 70687, location = Greenville, North Carolina, friends = 120, ratio = 0.0016976247400512117
+Screen Name =JonScheyer, followers = 44042, location = Durham, NC, friends = 642, ratio = 0.014576994686889787
+Screen Name =TheVFoundation, followers = 22889, location = Cary, North Carolina, friends = 779, ratio = 0.0340338153698283
+Screen Name =L337Lauren, followers = 48941, location = Raleigh, NC, friends = 965, ratio = 0.0197176191741076
+Screen Name =Bobby_Labonte, followers = 120079, location = Archdale, NC , friends = 133, ratio = 0.0011076041605942754
+Screen Name =USABaseball, followers = 68375, location = Durham, North Carolina, friends = 438, ratio = 0.0064058500914076786
+Screen Name =mkramer, followers = 13253, location = carrboro nc , friends = 9059, ratio = 0.6835433486757715
+Screen Name =Lex_topia, followers = 4054, location = DC/NC, friends = 502, ratio = 0.12382831771090282
+Screen Name =flyosity, followers = 26277, location = Raleigh, NC, friends = 959, ratio = 0.036495794801537466
+Screen Name =_andrewcarter, followers = 10254, location = Chapel Hill, N.C., friends = 767, ratio = 0.07480007801833431
+Screen Name =JEFFVARNER, followers = 4500, location = North Carolina, USA, friends = 706, ratio = 0.15688888888888888
+Screen Name =EngelWX, followers = 1665, location = Greenville, NC, friends = 539, ratio = 0.3237237237237237
+Screen Name =DukeU, followers = 40555, location = Durham, N.C., friends = 431, ratio = 0.010627542843052645
+Screen Name =PackFootball, followers = 56426, location = Raleigh, N.C., friends = 399, ratio = 0.007071208308226704
+Screen Name =PackAthletics, followers = 43440, location = Raleigh, N.C., friends = 546, ratio = 0.012569060773480663
+Screen Name =nsj, followers = 9263, location = Raleigh, NC, friends = 3495, ratio = 0.37730756774263197
+Screen Name =DZone, followers = 32498, location = Cary, NC USA, friends = 845, ratio = 0.0260016000984676
+Screen Name =laserllama, followers = 2971, location = RTP, NC, friends = 24, ratio = 0.008078088185796028
+Screen Name =PackMensBball, followers = 45990, location = Raleigh, N.C., friends = 184, ratio = 0.004000869754294411
+Screen Name =StateCoachD, followers = 25252, location = Raleigh, NC, friends = 1385, ratio = 0.054847140820529064
+Screen Name =NCStateBaseball, followers = 29909, location = Raleigh, N.C., friends = 180, ratio = 0.006018255374636397
+Screen Name =PackPride, followers = 37553, location = Raleigh, NC, friends = 728, ratio = 0.019385934545841876
+Screen Name =TheRTP, followers = 21166, location = Research Triangle Park, NC, friends = 5581, ratio = 0.26367759614476044
+Screen Name =NCStateNews, followers = 22517, location = Raleigh, North Carolina, friends = 469, ratio = 0.020828707199005196
+Screen Name =naturalsciences, followers = 7800, location = Raleigh, NC, USA, friends = 1197, ratio = 0.15346153846153845
+Screen Name =DowntownRaleigh, followers = 22756, location = Downtown Raleigh, NC, friends = 10782, ratio = 0.4738091052909123
+Screen Name =samruby, followers = 3266, location = Raleigh, NC, friends = 61, ratio = 0.018677281077770974
+Screen Name =WKNC881, followers = 9037, location = Raleigh, NC, friends = 461, ratio = 0.05101250414960717
+Screen Name =NCStateEngr, followers = 4304, location = Raleigh, NC, friends = 164, ratio = 0.03810408921933085
+Screen Name =ncce_news, followers = 7336, location = North Carolina, friends = 4697, ratio = 0.6402671755725191
+Screen Name =wolfpackclub, followers = 12045, location = Raleigh, NC, friends = 189, ratio = 0.01569115815691158
+Screen Name =NCStateAlumni, followers = 11823, location = Raleigh, NC, friends = 326, ratio = 0.027573373932166117
+Screen Name =ncsulibraries, followers = 2517, location = Raleigh, NC, friends = 1219, ratio = 0.4843067143424712
+Screen Name =SylvanEsso, followers = 15559, location = Durham, NC, friends = 207, ratio = 0.013304196927823125
+Screen Name =BurtsBees, followers = 88629, location = Durham, NC, friends = 2510, ratio = 0.02832030148145641
+Screen Name =TarHeelFootball, followers = 57007, location = Chapel Hill, N.C., friends = 86, ratio = 0.0015085866647955514
+Screen Name =RDansky, followers = 2919, location = Durham, NC, friends = 1247, ratio = 0.42720109626584446
+Screen Name =VisitNC, followers = 42702, location = North Carolina, friends = 633, ratio = 0.014823661655191795
+Screen Name =AtlanticAllure, followers = 39668, location = North Carolina, friends = 5, ratio = 0.00012604618332156902
+Screen Name =RaleighReporter, followers = 3817, location = Raleigh, NC, friends = 1075, ratio = 0.28163479172124706
+Screen Name =DeltaRae, followers = 17803, location = Durham, NC, friends = 294, ratio = 0.016514070662247936
+Screen Name =J_Allgaier, followers = 93250, location = North Carolina, friends = 1137, ratio = 0.012193029490616621
+Screen Name =CoachFedora, followers = 32325, location = Chapel Hill NC, friends = 434, ratio = 0.0134261407579273
+Screen Name =UNC, followers = 46237, location = Chapel Hill, NC, friends = 1068, ratio = 0.023098384410753292
+Screen Name =FEofficial, followers = 39581, location = North Carolina, friends = 3404, ratio = 0.0860008589980041
+Screen Name =lruettimann, followers = 41041, location = Raleigh, NC, friends = 1002, ratio = 0.02441460978046344
+Screen Name =bhallwfmy, followers = 1416, location = Greensboro, NC, friends = 570, ratio = 0.4025423728813559
+Screen Name =republicwirelss, followers = 14873, location = Raleigh, NC, friends = 2586, ratio = 0.17387211725946344
+Screen Name =Mark_Gottfried, followers = 42159, location = Raleigh, N.C., friends = 534, ratio = 0.012666334590478901
+Screen Name =3williethadude9, followers = 39429, location = Durham, NC, friends = 2460, ratio = 0.06239062618884577
+Screen Name =SherryPollex, followers = 62251, location = north carolina , friends = 566, ratio = 0.0090922234180977
+Screen Name =NIEHS, followers = 11669, location = RTP, NC, friends = 386, ratio = 0.033079098466021084
+Screen Name =MATTHARDYBRAND, followers = 982568, location = Cameron, NC, friends = 1192, ratio = 0.0012131475887673933
+Screen Name =NHLCanes, followers = 174943, location = Raleigh, NC, friends = 2648, ratio = 0.015136358699690756
+Screen Name =BillyGraham, followers = 237976, location = North Carolina, friends = 78, ratio = 0.00032776414428345717
+Screen Name =binker, followers = 7664, location = Raleigh, NC, friends = 1945, ratio = 0.2537839248434238
+Screen Name =mountmoriahband, followers = 2384, location = Durham, NC USA, friends = 191, ratio = 0.08011744966442953
+Screen Name =RealBritt_Rob, followers = 189948, location = Los Angeles/ North Carolina, friends = 80, ratio = 0.00042116789858277
+Screen Name =greensboro_nc, followers = 249108, location = Greensboro, NC, friends = 216687, ratio = 0.8698516306180452
+Screen Name =TimBuckleyWX, followers = 3083, location = Greensboro, NC, friends = 1611, ratio = 0.5225429776192021
+Screen Name =TSNAaronWard, followers = 159172, location = North Carolina, USA, friends = 609, ratio = 0.003826049807755133
+Screen Name =RyanJNewman, followers = 292896, location = North Carolina, friends = 350, ratio = 0.0011949633999781492
+Screen Name =jamiemcmurray, followers = 235232, location = Moorseville, NC, friends = 168, ratio = 0.0007141885457760848
+Screen Name =BreeNewsome, followers = 107390, location = North Carolina, USA, friends = 940, ratio = 0.008753142750721669
+Screen Name =ppppolls, followers = 74532, location = Raleigh, NC, friends = 268, ratio = 0.0035957709440240433
+Screen Name =GoHeels, followers = 120433, location = Chapel Hill, North Carolina, friends = 348, ratio = 0.0028895734557803925
+Screen Name =WRAL, followers = 152526, location = Raleigh, NC, friends = 7838, ratio = 0.05138796008549362
+Screen Name =USAquarium, followers = 19018, location = Raleigh, NC, friends = 8236, ratio = 0.4330634136081607
+Screen Name =crashwong, followers = 2485, location = North Carolina, friends = 717, ratio = 0.2885311871227364
+Screen Name =12WillPower, followers = 69282, location = North Carolina, friends = 149, ratio = 0.0021506307554631796
+Screen Name =AJDinger, followers = 185151, location = North Carolina, friends = 69, ratio = 0.0003726687946594941
+Screen Name =ABC11_WTVD, followers = 99523, location = Raleigh Durham, NC, friends = 23796, ratio = 0.239100509429981
+Screen Name =statefansnation, followers = 13261, location = Raleigh, NC, friends = 1120, ratio = 0.08445818565719025
+Screen Name =9thwonder, followers = 360557, location = North Carolina , friends = 6017, ratio = 0.016688068738091342
+Screen Name =NCSUTechnician, followers = 5708, location = Raleigh, N.C., friends = 392, ratio = 0.06867554309740714
+Screen Name =PackWrestle, followers = 5179, location = Raleigh, N.C., friends = 478, ratio = 0.09229581000193088
+Screen Name =PackWomensBball, followers = 5548, location = Raleigh, N.C., friends = 512, ratio = 0.09228550829127613
+Screen Name =PackVball, followers = 5191, location = Raleigh, N.C., friends = 185, ratio = 0.0356386052783664
+Screen Name =NISSSAMSI, followers = 2600, location = Research Triangle Park, NC, friends = 1748, ratio = 0.6723076923076923
+Screen Name =MsCharlotteWWE, followers = 299706, location = Queen City, NC, friends = 330, ratio = 0.001101079057476327
+Screen Name =PackMensSoccer, followers = 4744, location = Raleigh, N.C., friends = 292, ratio = 0.06155143338954469
+Screen Name =NCStateSustain, followers = 3647, location = Raleigh, NC, friends = 1051, ratio = 0.28818206745270086
+Screen Name =therealcliffyb, followers = 323736, location = Raleigh, NC, friends = 1789, ratio = 0.0055261076926878695
+Screen Name =GrahamDavidA, followers = 11155, location = Durham, N.C., friends = 1836, ratio = 0.16458987001344688
+Screen Name =CHRIS_Daughtry, followers = 573381, location = North Carolina, friends = 477, ratio = 0.0008319075797767976
+Screen Name =kaitlynvincie, followers = 42491, location = Queen City, NC, friends = 1713, ratio = 0.040314419524134525
+Screen Name =HeatherOReilly, followers = 257222, location = Chapel Hill, NC, friends = 238, ratio = 0.0009252707777717302
+Screen Name =mergerecords, followers = 150439, location = North Carolina, friends = 1143, ratio = 0.007597763877717879
+Screen Name =JEFFHARDYBRAND, followers = 1150496, location = Cameron, NC, friends = 31, ratio = 0.000026944900286485134
+Screen Name =sarahdessen, followers = 263402, location = North Carolina, friends = 379, ratio = 0.0014388653085397984
+Screen Name =TasiasWord, followers = 578270, location = North Carolina, friends = 1638, ratio = 0.002832586853891781
+Screen Name =EpicGames, followers = 450956, location = Cary, NC, friends = 194, ratio = 0.0004301971810997082
+Screen Name =tiftmerritt, followers = 9416, location = NYC & NC, friends = 333, ratio = 0.03536533559898046
+Screen Name =PatMcCroryNC, followers = 31670, location = North Carolina, friends = 571, ratio = 0.01802968108620145
+Screen Name =KingMez, followers = 12288, location = South Side Raleigh, friends = 190, ratio = 0.015462239583333334
+Screen Name =RickAllenracing, followers = 33248, location = North Carolina, friends = 1005, ratio = 0.03022738209817132
+Screen Name =RepWalterJones, followers = 12747, location = Eastern North Carolina, friends = 158, ratio = 0.012395073350592296
+Screen Name =DavidCutcliffe, followers = 21136, location = Durham, NC, friends = 156, ratio = 0.007380772142316427
+Screen Name =JWhitehurst, followers = 9360, location = Raleigh, N.C., friends = 66, ratio = 0.007051282051282051
+Screen Name =WRALLynda, followers = 4078, location = Raleigh, NC, friends = 1777, ratio = 0.43575282000980875
+Screen Name =driickygraham, followers = 84177, location = Oxford, NC, friends = 684, ratio = 0.008125735058270073
+Screen Name =APorterOfficial, followers = 83097, location = North Carolina, friends = 17640, ratio = 0.21228203184230476
+Screen Name =wmsteele, followers = 2758, location = Greensboro, NC, friends = 805, ratio = 0.2918781725888325
+Screen Name =ImBrendanKing, followers = 528, location = Greenville, NC, friends = 471, ratio = 0.8920454545454546
+Screen Name =joeovies, followers = 14085, location = Raleigh, NC, friends = 872, ratio = 0.06190983315583955
+Screen Name =gedeon, followers = 4980, location = Greensboro, NC, friends = 247, ratio = 0.04959839357429719
+Screen Name =WFMY, followers = 43968, location = Greensboro, North Carolina, friends = 622, ratio = 0.01414665211062591
+Screen Name =theouterbanks, followers = 26289, location = North Carolina, USA, friends = 7594, ratio = 0.28886606565483663
+Screen Name =Moogfest, followers = 10759, location = Durham, NC, friends = 521, ratio = 0.04842457477460731
+Screen Name =NewmanKrissie, followers = 83670, location = North Carolina, friends = 516, ratio = 0.006167084976694156
+Screen Name =Ashirley4, followers = 119641, location = Lizardlick, NC , friends = 460, ratio = 0.0038448358004363054
+Screen Name =laurakeeley, followers = 11762, location = Durham, NC, friends = 700, ratio = 0.0595136881482741
+Screen Name =UncleTrini, followers = 2495, location = Greensboro , friends = 825, ratio = 0.3306613226452906
+Screen Name =dicehateme, followers = 7225, location = Chapel Hill, NC, friends = 1639, ratio = 0.22685121107266437
+Screen Name =UnrealEngine, followers = 132594, location = Cary, NC, friends = 7335, ratio = 0.055319245214715596
+Screen Name =Vivalaquintaa, followers = 13790, location = north carolina, friends = 5562, ratio = 0.4033357505438724
+Screen Name =CSorrellAI11, followers = 12490, location = North Carolina , friends = 1226, ratio = 0.09815852682145716
+Screen Name =handlebars41, followers = 7262, location = All over the country, friends = 298, ratio = 0.041035527402919304
+Screen Name =speedybanks16, followers = 19482, location = DMV/ NC, friends = 888, ratio = 0.045580535879273174
+Screen Name =FlemESPN, followers = 2805, location = North Carolina, friends = 623, ratio = 0.22210338680926917
+Screen Name =visitRaleigh, followers = 29340, location = Raleigh, NC, friends = 971, ratio = 0.0330947511929107
+Screen Name =clbrownespn, followers = 10730, location = Durham, NC, USA, friends = 2197, ratio = 0.20475302889095992
+Screen Name =kayhagan, followers = 8539, location = Greensboro, NC, friends = 720, ratio = 0.08431900690947418
+Screen Name =eslivka, followers = 2215, location = Raleigh/Durham, NC, friends = 126, ratio = 0.05688487584650113
+Screen Name =mtdukes, followers = 3997, location = Raleigh, N.C., friends = 1367, ratio = 0.34200650487865897
+Screen Name =sciencecomedian, followers = 16285, location = Raleigh, NC, friends = 5837, ratio = 0.358428001228124
+Screen Name =G105radio, followers = 11138, location = Raleigh, NC, friends = 324, ratio = 0.02908960316035195
+Screen Name =ScottGustin, followers = 2281, location = Greensboro, friends = 994, ratio = 0.4357737834283209
+Screen Name =sistertoldjah, followers = 29824, location = North Carolina, friends = 2832, ratio = 0.09495708154506438
+Screen Name =TrainingMindful, followers = 96958, location = Raleigh, NC, friends = 22013, ratio = 0.22703644877163306
+Screen Name =fullsteam, followers = 32753, location = Durham, North Carolina, friends = 6047, ratio = 0.18462430922358258
+Screen Name =CarolAndrewsNC, followers = 2754, location = NC/USA, friends = 2713, ratio = 0.9851125635439361
+Screen Name =ColeWhitt, followers = 56893, location = North Carolina, friends = 311, ratio = 0.005466401842054383
+Screen Name =DeThompson9, followers = 17414, location = Chapel Hill, NC, friends = 488, ratio = 0.028023429424600895
+Screen Name =Duke_ATHLETICS, followers = 23928, location = Durham, NC, friends = 977, ratio = 0.04083082581076563
+Screen Name =WXII, followers = 49582, location = Piedmont Triad, NC, friends = 1201, ratio = 0.024222500100843047
+Screen Name =ShaneRyanHere, followers = 11980, location = Durham, NC, friends = 518, ratio = 0.04323873121869783
+Screen Name =thadogburn, followers = 1333, location = Raleigh, NC, friends = 1653, ratio = 1.2400600150037508
+Screen Name =NCCapitol, followers = 14255, location = Raleigh, NC, friends = 353, ratio = 0.024763240968081374
+Screen Name =mgilchr, followers = 12926, location = High Point, NC, friends = 142, ratio = 0.01098561039764815
+Screen Name =cameronpercy1, followers = 1715, location = raleigh, friends = 195, ratio = 0.11370262390670553
+Screen Name =dkiesow, followers = 2665, location = Raleigh, NC, friends = 540, ratio = 0.2026266416510319
+Screen Name =Brock_toon, followers = 1090, location = Raleigh, NC, friends = 818, ratio = 0.7504587155963303
+Screen Name =JedRecord, followers = 65883, location = Chapel Hill, USA, friends = 49925, ratio = 0.7577827360624136
+Screen Name =Sylwil92, followers = 24047, location = Chapel Hill, friends = 331, ratio = 0.013764710774732816
+Screen Name =chessonhadley, followers = 9301, location = North Carolina, friends = 224, ratio = 0.024083431889044188
+Screen Name =LilBitSouth, followers = 72432, location = North Carolina, USA, friends = 6010, ratio = 0.08297437596642368
+Screen Name =LeVelleMoton, followers = 6620, location = Raleigh/Durham, North Carolina, friends = 1362, ratio = 0.2057401812688822
+Screen Name =OFA_NC, followers = 24697, location =  North Carolina, friends = 15124, ratio = 0.6123820706968458
+Screen Name =btbamofficial, followers = 38049, location = North Carolina, friends = 27, ratio = 0.0007096112907040921
+Screen Name =GFISoftware, followers = 39744, location = North Carolina, USA, friends = 17446, ratio = 0.43895933977455714
+Screen Name =WNCN, followers = 22601, location = North Carolina, friends = 1362, ratio = 0.060262820229193395
+Screen Name =KapilGuptaMD, followers = 11807, location = North Carolina, friends = 10, ratio = 0.0008469551960701278
+Screen Name =CoachKWisdom, followers = 154430, location = Durham, NC, friends = 376, ratio = 0.00243476008547562
+Screen Name =NWSRaleigh, followers = 7831, location = Raleigh, NC, friends = 67, ratio = 0.008555740007661856
+Screen Name =BubbaUNC, followers = 9263, location = University of North Carolina, friends = 329, ratio = 0.03551765086904891
+Screen Name =Bayer4CropsUS, followers = 30013, location = Research Triangle Park, NC, friends = 6114, ratio = 0.20371172491920167
+Screen Name =CScott60kg, followers = 13881, location = Chapel Hill, NC , friends = 879, ratio = 0.06332396801383186
+Screen Name =vbauerlein, followers = 1317, location = Raleigh, N.C., friends = 924, ratio = 0.7015945330296127
+Screen Name =Darden4130, followers = 11565, location = Greenville, NC 27858, friends = 537, ratio = 0.04643320363164721
+Screen Name =MattClarkMC, followers = 18390, location = North Carolina, friends = 866, ratio = 0.047090810222947255
+Screen Name =Chip_Patterson, followers = 5111, location = Raleigh, NC, friends = 904, ratio = 0.1768734102915281
+Screen Name =emilypfreeman, followers = 15514, location = North Carolina, friends = 1027, ratio = 0.06619827252803918
+Screen Name =BaseballAmerica, followers = 166411, location = Durham, N.C., friends = 747, ratio = 0.004488885951048909
+Screen Name =iAmHeysoos, followers = 7583, location = Raleigh, NC , friends = 3382, ratio = 0.4459976262692866
+Screen Name =marcowenjones, followers = 7055, location = Durham, friends = 1099, ratio = 0.1557760453579022
+Screen Name =mindofandre, followers = 9286, location = Raleigh-Durham, friends = 947, ratio = 0.10198147749300021
+Screen Name =UNC_Basketball, followers = 245687, location = Chapel Hill, N.C., friends = 18, ratio = 0.00007326394965952614
+Screen Name =Iconfactory, followers = 15011, location = Greensboro, NC, friends = 22, ratio = 0.001465591899273866
+Screen Name =HeyItsMartty, followers = 97380, location = Greensboro, NC, friends = 57829, ratio = 0.5938488395974533
+Screen Name =bob_owens, followers = 9835, location = Raleigh, NC, USA, friends = 1106, ratio = 0.11245551601423487
+Screen Name =NCNationalGuard, followers = 5461, location = Raleigh, NC, friends = 854, ratio = 0.15638161508881157
+Screen Name =CharlieHouchin, followers = 7756, location = NC, USA, friends = 205, ratio = 0.026431150077359463
+Screen Name =colonel19, followers = 9149, location = Durham, friends = 585, ratio = 0.06394141436222538
+Screen Name =gerspeed1, followers = 8401, location = Charotte NC, friends = 273, ratio = 0.03249613141292703
+Screen Name =joshharrington, followers = 16522, location = North Carolina , friends = 410, ratio = 0.024815397651616028
+Screen Name =TheeTomHardy, followers = 12835, location = Durham, NC, friends = 3859, ratio = 0.30066225165562915
+Screen Name =BCBSNC, followers = 10607, location = Chapel Hill, NC, friends = 3087, ratio = 0.2910342226831338
+Screen Name =iContact, followers = 24068, location = Morrisville, NC, friends = 7717, ratio = 0.32063320591656974
+Screen Name =ashtvnk, followers = 22832, location = North Carolina, USA, friends = 429, ratio = 0.018789418360196215
+Screen Name =curriculumblog, followers = 8148, location = Chapel Hill, North Carolina, friends = 2517, ratio = 0.3089101620029455
+Screen Name =monicabyrne13, followers = 3444, location = Durham, NC, friends = 395, ratio = 0.11469221835075494
+Screen Name =matt_jakubowski, followers = 1580, location = West Philadelphia, friends = 1073, ratio = 0.6791139240506329
+Screen Name =joelrwilliams1, followers = 2126, location = Greensboro, NC, friends = 390, ratio = 0.18344308560677328
+Screen Name =deftlyinane, followers = 3943, location = Greensboro, NC, friends = 885, ratio = 0.22444838955110322
+Screen Name =mackrobertsWITN, followers = 411, location = Greenville, NC, friends = 383, ratio = 0.9318734793187348
+Screen Name =andreaweigl, followers = 10244, location = raleigh, nc, friends = 3112, ratio = 0.30378758297540026
+Screen Name =lenovoUS, followers = 13057, location = Morrisville, NC, friends = 574, ratio = 0.04396109366623267
+Screen Name =WDNCnews, followers = 605, location = North Carolina, friends = 88, ratio = 0.14545454545454545
+Screen Name =HowardCoble, followers = 4101, location = North Carolina, friends = 454, ratio = 0.11070470616922702
+Screen Name =EastCarolina, followers = 22661, location = Greenville, NC, friends = 360, ratio = 0.01588632452230705
+Screen Name =chapelhillgov, followers = 8333, location = Chapel Hill, NC, friends = 156, ratio = 0.0187207488299532
+Screen Name =CRLONLINE, followers = 3482, location = Durham, NC, friends = 789, ratio = 0.22659391154508904
+Screen Name =NCDemParty, followers = 9314, location = Raleigh, NC, friends = 1045, ratio = 0.11219669315009663
+Screen Name =wraltraffic, followers = 12426, location = Raleigh, NC, friends = 12124, ratio = 0.9756961210365362
+Screen Name =DavidSchawel, followers = 21241, location = Durham, NC, friends = 589, ratio = 0.027729391271597383
+Screen Name =MarkRein, followers = 23630, location = Raleigh, North Carolina, friends = 489, ratio = 0.02069403300888701
+Screen Name =Duke_MBB, followers = 80128, location = Cameron Indoor Stadium, friends = 273, ratio = 0.0034070487220447285
+Screen Name =TimSweeneyEpic, followers = 10406, location = Cary, NC, friends = 77, ratio = 0.007399577167019027
+Screen Name =JC_Oneal21, followers = 49396, location = Greensboro, NC, friends = 37096, ratio = 0.7509919831565309
+Screen Name =Nick_Craver, followers = 4305, location = North Carolina, friends = 176, ratio = 0.04088269454123113
+Screen Name =Lynn_Bonner, followers = 2325, location = Raleigh, friends = 742, ratio = 0.31913978494623657
+Screen Name =NewRaleigh, followers = 41811, location = Raleigh, NC, friends = 286, ratio = 0.0068403051828466194
+Screen Name =Mike_Beacham, followers = 71912, location = North Carolina, friends = 59441, ratio = 0.8265797085326511
+Screen Name =DanielSolis, followers = 5108, location = Durham, NC, friends = 574, ratio = 0.11237274862960063
+Screen Name =WxCandiceBoling, followers = 1228, location = Greenville, NC, friends = 752, ratio = 0.6123778501628665
+Screen Name =Uber_NCarolina, followers = 4154, location = North Carolina, friends = 1750, ratio = 0.4212806933076553
+Screen Name =ECUPiratesFB, followers = 12770, location = Greenville, N.C., friends = 57, ratio = 0.004463586530931872
+Screen Name =duncanfo, followers = 7946, location = Durham, friends = 339, ratio = 0.04266297508180217
+Screen Name =littband, followers = 3859, location = Chapel Hill, NC, friends = 616, ratio = 0.15962684633324695
+Screen Name =AlexButlertv, followers = 3063, location = Raleigh, NC, friends = 285, ratio = 0.0930460333006856
+Screen Name =da_horton, followers = 11754, location = Wake Forest, NC, friends = 204, ratio = 0.017355793772332824
+Screen Name =CoachBrettBlair, followers = 45974, location = Durham, North Carolina, friends = 15299, ratio = 0.33277504676556313
+Screen Name =BethBrittHardy_, followers = 67013, location = Cameron, NC, friends = 272, ratio = 0.004058913942070941
+Screen Name =BoraZ, followers = 27544, location = Pittsboro, NC, friends = 14187, ratio = 0.5150668022073773
+Screen Name =dukebasketball, followers = 104181, location = Durham, NC, friends = 118, ratio = 0.0011326441481652124
+Screen Name =NoScopeGlasses, followers = 29592, location = Cary, NC, USA, friends = 40, ratio = 0.0013517166801838335
+Screen Name =grant_gilmore, followers = 4311, location = Greensboro, friends = 786, ratio = 0.18232428670842032
+Screen Name =Beaker, followers = 18948, location = North Carolina, USA, friends = 2332, ratio = 0.12307367532193371
+Screen Name =AngelaWNCT, followers = 887, location = Greenville, NC, friends = 931, ratio = 1.0496054114994362
+Screen Name =ejsnyder333, followers = 8732, location = North Carolina, friends = 5704, ratio = 0.6532295006871278
+Screen Name =Campster, followers = 8340, location = Cary, NC, friends = 458, ratio = 0.05491606714628297
+Screen Name =YoungBLKRepub, followers = 32404, location = Raleigh, North Carolina, friends = 5524, ratio = 0.1704727811381311
+Screen Name =_SavageBody, followers = 4959, location = North Carolina, friends = 2359, ratio = 0.475700746118169
+Screen Name =AmSciMag, followers = 15719, location = Research Triangle Park, NC, friends = 742, ratio = 0.047204020611998215
+Screen Name =JamieShaw5, followers = 11260, location = Raleigh, friends = 8462, ratio = 0.7515097690941386
+Screen Name =JulieGrantEsq, followers = 2452, location = Greensboro, NC, friends = 927, ratio = 0.3780587275693312
+Screen Name =B_Davidson06, followers = 5768, location = North Carolina, friends = 447, ratio = 0.07749653259361997
+Screen Name =dankanenando, followers = 3229, location = Raleigh, NC, friends = 470, ratio = 0.14555589965933727
+Screen Name =jgravleyWRAL, followers = 6131, location = Raleigh, NC, friends = 244, ratio = 0.03979774914369597
+Screen Name =NewBlackMan, followers = 37617, location = Durham, NC, friends = 22103, ratio = 0.5875800834728979
+Screen Name =BlueRidgeNPS, followers = 6564, location = Virginia & North Carolina, friends = 614, ratio = 0.09354052407068861
+Screen Name =StatSheet, followers = 5267, location = Durham, NC, friends = 185, ratio = 0.035124359217771024
+Screen Name =jasonkeath, followers = 37549, location = NYC/NC, friends = 996, ratio = 0.026525340222109776
+Screen Name =ourstatemag, followers = 24378, location = North Carolina, friends = 3779, ratio = 0.1550168184428583
+Screen Name =markmclawhorn, followers = 145, location = Raleigh, friends = 87, ratio = 0.6
+Screen Name =ZLow4sho, followers = 1369, location = Cary, NC, friends = 523, ratio = 0.38203067932797663
+Screen Name =kjhealy, followers = 8581, location = North Carolina, friends = 100, ratio = 0.01165365342034728
+Screen Name =wncnmikeg, followers = 2331, location = Raleigh,NC, friends = 1955, ratio = 0.8386958386958387
+Screen Name =downtownpaul, followers = 5511, location = downtown halifax, friends = 1475, ratio = 0.26764652513155507
+Screen Name =wralbleslie, followers = 4893, location = Raleigh, NC, friends = 483, ratio = 0.09871244635193133
+Screen Name =triciacotham, followers = 4823, location = North Carolina, friends = 1976, ratio = 0.40970350404312667
+Screen Name =RoyCooperNC, followers = 3997, location = Raleigh, NC, friends = 344, ratio = 0.08606454841130848
+Screen Name =driscoll86, followers = 5641, location = Durham, friends = 440, ratio = 0.07800035454706612
+Screen Name =acurliss, followers = 2353, location = Raleigh, N.C., friends = 834, ratio = 0.35444113897152574
+Screen Name =mjwaggonernc, followers = 1508, location = Raleigh, NC, friends = 1390, ratio = 0.9217506631299734
+Screen Name =WellsThompson, followers = 2447, location = Raleigh, NC, friends = 973, ratio = 0.39762975071516143
+Screen Name =wnct9, followers = 8223, location = Greenville, NC, friends = 305, ratio = 0.0370910859783534
+Screen Name =ChapelHillNews1, followers = 4615, location = Chapel Hill, NC, friends = 456, ratio = 0.09880823401950163
+Screen Name =MandyWRAL, followers = 4440, location = Raleigh, NC, friends = 579, ratio = 0.1304054054054054
+Screen Name =jesseddie, followers = 3500, location = london/durham, friends = 448, ratio = 0.128
+Screen Name =sharefile, followers = 12617, location = Raleigh, NC, friends = 1276, ratio = 0.1011333914559721
+Screen Name =chouchoutv, followers = 6087, location = Raleigh, NC, friends = 479, ratio = 0.07869229505503532
+Screen Name =GuilfordCounty, followers = 6589, location = Greensboro, NC, friends = 109, ratio = 0.016542722719684322
+Screen Name =AIRNow, followers = 1618, location = Research Triangle Park, NC, friends = 55, ratio = 0.033992583436341164
+Screen Name =gbfishel, followers = 9299, location = Raleigh, NC, friends = 44, ratio = 0.004731691579739757
+Screen Name =seanmaroney, followers = 2546, location = Raleigh, friends = 997, ratio = 0.39159465828750983
+Screen Name =marktraphagen, followers = 10005, location = Durham NC, friends = 2347, ratio = 0.23458270864567715
+Screen Name =NCStateResearch, followers = 2326, location = Raleigh, NC, friends = 1059, ratio = 0.4552880481513328
+Screen Name =NCStateDesign, followers = 2419, location = Raleigh, NC, friends = 447, ratio = 0.18478710210830923
+Screen Name =applyncstate, followers = 3436, location = Raleigh, NC, friends = 622, ratio = 0.1810244470314319
+Screen Name =greggmuseum, followers = 1506, location = Raleigh, NC, friends = 730, ratio = 0.4847277556440903
+Screen Name =PackGymnastics, followers = 3482, location = Raleigh, N.C., friends = 77, ratio = 0.02211372774267662
+Screen Name =NCSUbookstore, followers = 5752, location = NC State University, Raleigh, friends = 144, ratio = 0.025034770514603615
+Screen Name =bandwidth, followers = 4058, location = Raleigh, NC, friends = 1832, ratio = 0.45145391818629865
+Screen Name =NCStateMBA, followers = 2522, location = Raleigh, NC, friends = 1109, ratio = 0.43973037272006343
+Screen Name =FridayInstitute, followers = 1635, location = Raleigh, NC, friends = 142, ratio = 0.08685015290519878
+Screen Name =EduardoCCorral, followers = 4080, location = Raleigh, NC, friends = 975, ratio = 0.23897058823529413
+Screen Name =mikema_, followers = 4082, location = Raleigh, NC, friends = 266, ratio = 0.06516413522782949
+Screen Name =utgame, followers = 9136, location = Cary, NC, friends = 254, ratio = 0.027802101576182136
+Screen Name =whitneytrettien, followers = 2851, location = North Carolina, USA, friends = 957, ratio = 0.33567169414240616
+Screen Name =Spoonflower, followers = 31843, location = Durham, NC, friends = 3406, ratio = 0.10696228370442483
+Screen Name =LenovoEducation, followers = 6281, location = Morrisville, NC, friends = 1840, ratio = 0.2929469829644961
+Screen Name =RealOneTreeHill, followers = 189325, location = Tree Hill, NC, friends = 989, ratio = 0.00522382147101545
+Screen Name =RemingtonArms, followers = 152422, location = Madison, NC, friends = 248, ratio = 0.001627061710251801
+Screen Name =theACC, followers = 64389, location = Greensboro, N.C., friends = 132, ratio = 0.002050039603037786
+Screen Name =BuzzEdition, followers = 67596, location = North Carolina, friends = 10709, ratio = 0.15842653411444463
+Screen Name =RICCOBARRINO, followers = 21066, location = ATL/NC, friends = 1120, ratio = 0.0531662394379569
+Screen Name =EasternWakeNews, followers = 1411, location = Zebulon, North Carolina, friends = 250, ratio = 0.1771793054571226
+Screen Name =DeemoneyNC, followers = 18143, location = Raleigh NC, friends = 3975, ratio = 0.21909276304910985
+Screen Name =jasonlatour, followers = 10172, location = North Carolina, friends = 586, ratio = 0.05760912308297287
+Screen Name =DukeStudents, followers = 2065, location = Durham, NC, friends = 787, ratio = 0.3811138014527845
+Screen Name =TaylorLisenbyTV, followers = 735, location = Raleigh, NC , friends = 907, ratio = 1.2340136054421769
+Screen Name =TanyaRiveraOn2, followers = 4022, location = Greensboro, NC , friends = 349, ratio = 0.08677274987568374
+Screen Name =plugusin, followers = 18250, location = Raleigh NC, friends = 979, ratio = 0.05364383561643836
+Screen Name =rahdieh, followers = 4822, location = north carolina, friends = 570, ratio = 0.11820821236001659
+Screen Name =Canes_Gameday, followers = 13336, location = Raleigh, NC, friends = 6, ratio = 0.00044991001799640074
+Screen Name =nandosports, followers = 2431, location = Raleigh, NC, friends = 22, ratio = 0.00904977375565611
+Screen Name =GuudeLP, followers = 135798, location = North Carolina, friends = 146, ratio = 0.0010751262905197426
+Screen Name =jdgreear, followers = 57393, location = Raleigh-Durham, NC, friends = 625, ratio = 0.010889829770181032
+Screen Name =profblmkelley, followers = 23163, location = Durham, NC, friends = 2410, ratio = 0.10404524457108319
+Screen Name =TheEscapistMag, followers = 54050, location = Durham, NC, friends = 18, ratio = 0.0003330249768732655
+Screen Name =helen_pgatour, followers = 891, location = Greensboro, NC , friends = 569, ratio = 0.6386083052749719
+Screen Name =ltmelvin, followers = 3212, location = Greensboro, NC, friends = 930, ratio = 0.28953922789539227
+Screen Name =TheDurhamNews, followers = 4769, location = North Carolina, friends = 443, ratio = 0.09289159152862235
+Screen Name =RissiPalmer, followers = 2378, location = Raleigh, NC , friends = 1377, ratio = 0.5790580319596299
+Screen Name =WRALeighWood, followers = 2708, location = Raleigh, NC, friends = 2003, ratio = 0.7396602658788775
+Screen Name =TriangleBIZJrnl, followers = 38810, location = Raleigh, N.C., friends = 232, ratio = 0.005977840762690028
+Screen Name =PackWSoccer, followers = 2039, location = Raleigh, N.C., friends = 265, ratio = 0.12996566944580676
+Screen Name =DukeLibraries, followers = 1210, location = Durham, NC, friends = 320, ratio = 0.2644628099173554
+Screen Name =EshipAtDuke, followers = 1764, location = Durham, NC, friends = 159, ratio = 0.09013605442176871
+Screen Name =NCSUStudyAbroad, followers = 2869, location = Raleigh, North Carolina, USA, friends = 629, ratio = 0.2192401533635413
+Screen Name =BradAMurphy, followers = 4235, location = Raleigh, NC, friends = 252, ratio = 0.05950413223140496
+Screen Name =Kramden, followers = 1763, location = Durham, North Carolina, friends = 1800, ratio = 1.0209869540555871
+Screen Name =ncsu_oit, followers = 1723, location = Raleigh, NC USA, friends = 1310, ratio = 0.7603017991874638
+Screen Name =NCSUEngLibrary, followers = 1679, location = Raleigh, NC, USA, friends = 180, ratio = 0.1072066706372841
+Screen Name =JamlaRecords, followers = 18642, location = Raleigh, NC, friends = 280, ratio = 0.01501984765583092
+Screen Name =Hunt_Institute, followers = 2897, location = Durham, NC, friends = 240, ratio = 0.08284432171211598
+Screen Name =rossgrady, followers = 1819, location = Durham, NC, friends = 708, ratio = 0.3892248488180319
+Screen Name =BossKey, followers = 20696, location = Raleigh, NC, friends = 45, ratio = 0.002174333204483958
+Screen Name =johnmanuelba, followers = 19116, location = Cary, NC, friends = 1104, ratio = 0.05775266792215945
+Screen Name =MacMerge, followers = 6372, location = Chapel Hill, NC, friends = 343, ratio = 0.053829252981795354
+Screen Name =TechSports, followers = 2366, location = Raleigh, NC, friends = 532, ratio = 0.22485207100591717
+Screen Name =wxdam, followers = 4650, location = North Carolina, friends = 3451, ratio = 0.7421505376344086
+Screen Name =elonuniversity, followers = 14261, location = Elon, NC, friends = 403, ratio = 0.028258887876025523
+Screen Name =BuLbaDotA, followers = 37265, location = North Carolina, USA, friends = 451, ratio = 0.012102509056755669
+Screen Name =medschooladvice, followers = 100904, location = Durham, North Carolina, USA, friends = 164, ratio = 0.0016253072227067312
+Screen Name =marcuspaige5, followers = 81380, location = Chapel Hill, friends = 544, ratio = 0.006684689112804129
+Screen Name =aaronfitt, followers = 28999, location = North Carolina, friends = 480, ratio = 0.016552294906720923
+Screen Name =Mother_Function, followers = 63146, location = North Carolina, USA, friends = 756, ratio = 0.011972254774649225
+Screen Name =muyskerm, followers = 169970, location = Raleigh, NC, friends = 161, ratio = 0.0009472259810554803
+Screen Name =makenoisemusic, followers = 7840, location = Western North Carolina, friends = 246, ratio = 0.031377551020408165
+Screen Name =angelonfire, followers = 17224, location = North Carolina, USA, friends = 1923, ratio = 0.11164653971202973
+Screen Name =Urgo, followers = 41757, location = Raleigh, NC, friends = 754, ratio = 0.018056852743252628
+Screen Name =AndyBeal, followers = 30496, location = Raleigh, NC, friends = 129, ratio = 0.0042300629590766
+Screen Name =BabyJawa_, followers = 2898, location = north carolina, friends = 652, ratio = 0.22498274672187715
+Screen Name =JonesAngell, followers = 16226, location = Chapel Hill, NC, friends = 311, ratio = 0.019166769382472575
+Screen Name =Raleigh4u, followers = 3684, location = Raleigh, North Carolina, friends = 654, ratio = 0.1775244299674267
+Screen Name =CityofDurhamNC, followers = 4038, location = Durham, NC, friends = 199, ratio = 0.049281822684497274
+Screen Name =john_drescher, followers = 1847, location = Raleigh, NC, friends = 270, ratio = 0.1461829994585815
+Screen Name =MBAatUNC, followers = 5074, location = Chapel Hill, NC, friends = 1581, ratio = 0.31158849034292474
+Screen Name =chathamcoline, followers = 3400, location = North Carolina, friends = 308, ratio = 0.09058823529411765
+Screen Name =smb2b, followers = 68775, location = Chapel Hill, NC, friends = 10467, ratio = 0.15219193020719737
+Screen Name =InsideCarolina, followers = 62176, location = Chapel Hill, N.C., friends = 407, ratio = 0.006545934122490994
+Screen Name =joekwon80, followers = 25318, location = North Carolina, friends = 290, ratio = 0.011454301287621454
+Screen Name =crisrivera, followers = 824, location = Durham, NC, friends = 256, ratio = 0.3106796116504854
+Screen Name =talkingbiznews, followers = 5439, location = Chapel Hill, NC, friends = 1419, ratio = 0.2608935466078323
+Screen Name =lizventuresblog, followers = 63044, location = North Carolina, friends = 36563, ratio = 0.5799600279170103
+Screen Name =mattfry, followers = 15721, location = Raleigh, NC, friends = 2714, ratio = 0.1726353285414414
+Screen Name =bikerumor, followers = 51806, location = North Carolina, friends = 252, ratio = 0.004864301432266533
+Screen Name =danacowley, followers = 11874, location = Cary, NC, friends = 995, ratio = 0.08379653023412498
+Screen Name =RedHatNews, followers = 73905, location = Raleigh, NC, friends = 127, ratio = 0.001718422298897233
+Screen Name =pamspaulding, followers = 15014, location = Durham, NC, friends = 1002, ratio = 0.06673771146929533
+Screen Name =DowntownHalifax, followers = 30694, location = Downtown Halifax, friends = 868, ratio = 0.028279142503420864
+Screen Name =NCSUStudentTix, followers = 1461, location = Raleigh, NC, friends = 63, ratio = 0.043121149897330596
+Screen Name =UAB_Films, followers = 1130, location = Raleigh, NC, friends = 18, ratio = 0.01592920353982301
+Screen Name =GranvilleMPP, followers = 1230, location = Durham, friends = 659, ratio = 0.5357723577235772
+Screen Name =ncstatedining, followers = 2594, location = Raleigh, NC, friends = 393, ratio = 0.15150346954510407
+Screen Name =NCHouseSpeaker, followers = 4972, location = Raleigh, NC, friends = 193, ratio = 0.03881737731295253
+Screen Name =MariaWNCT, followers = 1327, location = Greenville, North Carolina , friends = 1013, ratio = 0.7633760361718162
+Screen Name =ShiftySamurai, followers = 1008, location = North Carolina, USA, friends = 598, ratio = 0.5932539682539683
+Screen Name =JessicaWNCT, followers = 332, location = Greenville, NC, friends = 370, ratio = 1.1144578313253013
+Screen Name =PrincetonNC, followers = 48, location = Princeton, NC, friends = 27, ratio = 0.5625
+Screen Name =JacquelineWNCT, followers = 328, location = Greenville, NC, friends = 345, ratio = 1.0518292682926829
+Screen Name =jilljelnickWNCT, followers = 288, location = Greenville, NC, friends = 170, ratio = 0.5902777777777778
+Screen Name =MissAmericaNC, followers = 1007, location = North Carolina, USA, friends = 279, ratio = 0.2770605759682224
+Screen Name =CanadainLiberia, followers = 323, location = Liberia, friends = 12, ratio = 0.03715170278637771
+Screen Name =LiptonGulf, followers = 604, location = Gulf, friends = 3, ratio = 0.004966887417218543
+Screen Name =FarmvillePD, followers = 383, location = Farmville NC, friends = 106, ratio = 0.27676240208877284
+Screen Name =ZoraStephenson, followers = 328, location = Greenville, NC, friends = 346, ratio = 1.0548780487804879
+Screen Name =CoachSkrosky, followers = 1181, location = Elon, N.C., friends = 74, ratio = 0.06265876375952582
+Screen Name =OfficialNnenna, followers = 698, location = Durham,NC, friends = 447, ratio = 0.6404011461318052
+Screen Name =IronmongerWX, followers = 356, location = Greenville, NC, friends = 118, ratio = 0.33146067415730335
+Screen Name =SDoyleWrites, followers = 714, location = Greensboro, NC, friends = 863, ratio = 1.2086834733893557
+Screen Name =YatesInvestig8s, followers = 454, location = Greensboro, NC, friends = 225, ratio = 0.4955947136563877
+Screen Name =LarryAudas, followers = 480, location = Greensboro, NC, friends = 178, ratio = 0.37083333333333335
+Screen Name =ImGinaDiPietro, followers = 1382, location = Greenville, NC, friends = 1049, ratio = 0.7590448625180898
+Screen Name =RealLEPalacios, followers = 790, location = Greensboro, NC, friends = 197, ratio = 0.24936708860759493
+Screen Name =UNCOnline, followers = 3157, location = North Carolina, friends = 682, ratio = 0.21602787456445993
+Screen Name =EmilyRaeHodgdon, followers = 501, location = Greensboro, NC, friends = 265, ratio = 0.5289421157684631
+Screen Name =PSNIStrabane, followers = 1158, location = Strabane, friends = 82, ratio = 0.07081174438687392
+Screen Name =TomDutty, followers = 298, location = Purley, friends = 460, ratio = 1.5436241610738255
+Screen Name =MattMerletti, followers = 1099, location = North Carolina, USA, friends = 395, ratio = 0.359417652411283
+Screen Name =AceGutta704, followers = 27308, location = North Carolina, friends = 1442, ratio = 0.05280503881646404
+Screen Name =piercewx1, followers = 317, location = Greenville, NC, friends = 289, ratio = 0.9116719242902208
+Screen Name =ehill_press, followers = 694, location = Greensboro, NC, friends = 532, ratio = 0.7665706051873199
+Screen Name =987SimonTweets, followers = 491, location = Greensboro, NC, friends = 472, ratio = 0.9613034623217923
+Screen Name =WRALAimee, followers = 2162, location = Raleigh, friends = 639, ratio = 0.2955596669750231
+Screen Name =WalterDalton, followers = 1645, location = North Carolina, friends = 183, ratio = 0.11124620060790273
+Screen Name =KellyWNCT, followers = 361, location = Greenville, NC, friends = 226, ratio = 0.6260387811634349
+Screen Name =GSO_Police, followers = 649, location = Greensboro, North Carolina, friends = 145, ratio = 0.22342064714946072
+Screen Name =HubbardWrites, followers = 406, location = North Carolina, friends = 178, ratio = 0.43842364532019706
+Screen Name =NOOpinionShop, followers = 682, location = Raleigh, NC, friends = 110, ratio = 0.16129032258064516
+Screen Name =watchdogben, followers = 682, location = Greensboro, NC, friends = 367, ratio = 0.5381231671554252
+Screen Name =marilyn_payne, followers = 1661, location = North Carolina, friends = 657, ratio = 0.39554485249849486
+Screen Name =BruceMildwurf, followers = 1501, location = Raleigh, NC, friends = 551, ratio = 0.3670886075949367
+Screen Name =EdMatthews2, followers = 1957, location = Greensboro, NC, friends = 91, ratio = 0.04649974450689831
+Screen Name =BrandonWNCT, followers = 534, location = Greenville, NC, friends = 463, ratio = 0.8670411985018727
+Screen Name =GabeLatigue, followers = 696, location = North Carolina, friends = 377, ratio = 0.5416666666666666
+Screen Name =LizCrawfordWFMY, followers = 2808, location = Greensboro, NC, friends = 498, ratio = 0.17735042735042736
+Screen Name =HarrisonRhodes, followers = 11508, location = North Carolina, friends = 190, ratio = 0.01651025373653111
+Screen Name =BalsamRange, followers = 2443, location = North Carolina, friends = 69, ratio = 0.028243962341383544
+Screen Name =ToHollySprings, followers = 3704, location = Holly Springs, NC, friends = 2486, ratio = 0.6711663066954644
+Screen Name =BonitiTWCNews, followers = 2184, location = North Carolina, friends = 675, ratio = 0.3090659340659341
+Screen Name =1JasmineSpencer, followers = 1167, location = North Carolina, friends = 439, ratio = 0.37617823479005996
+Screen Name =GreenvillePD, followers = 5000, location = Greenville, North Carolina, friends = 327, ratio = 0.0654
+Screen Name =PittSheriff, followers = 2376, location = North Carolina, friends = 563, ratio = 0.23695286195286194
+Screen Name =Cary_News, followers = 2954, location = Cary, NC, friends = 241, ratio = 0.08158429248476642
+Screen Name =Sealy, followers = 3465, location = Trinity, NC, friends = 499, ratio = 0.144011544011544
+Screen Name =WRALMonica, followers = 1563, location = Raleigh, NC, friends = 110, ratio = 0.07037747920665387
+Screen Name =maxpoint_int, followers = 3325, location = Raleigh, NC, friends = 529, ratio = 0.15909774436090227
+Screen Name =SarahEKrueger, followers = 1598, location = North Carolina, friends = 282, ratio = 0.17647058823529413
+Screen Name =Nandolifestyles, followers = 1578, location = Raleigh, N.C., friends = 1695, ratio = 1.0741444866920151
+Screen Name =Eric_Frederick, followers = 970, location = Raleigh, NC, friends = 687, ratio = 0.7082474226804124
+Screen Name =mchightower, followers = 1672, location = Greensboro, NC, friends = 703, ratio = 0.42045454545454547
+Screen Name =KristinKetchell, followers = 2266, location = Raleigh, NC, friends = 827, ratio = 0.3649602824360106
+Screen Name =2WTK, followers = 1999, location = Greensboro, friends = 376, ratio = 0.18809404702351176
+Screen Name =NIEHS_PEPH, followers = 487, location = RTP, NC, friends = 272, ratio = 0.5585215605749486
+Screen Name =TraceyMcCain, followers = 5029, location = Greensboro, NC, friends = 583, ratio = 0.11592761980513025
+Screen Name =katharinewhalen, followers = 370, location = North Carolina, friends = 214, ratio = 0.5783783783783784
+Screen Name =joethetvguy, followers = 1177, location = Greensboro, North Carolina, friends = 879, ratio = 0.7468139337298216
+Screen Name =KatieNordeen, followers = 3673, location = High Point, North Carolina, friends = 652, ratio = 0.17751157092295128
+Screen Name =Jeanne_Jolly, followers = 2298, location = Raleigh, NC, friends = 1208, ratio = 0.525674499564839
+Screen Name =SarahAddisonAll, followers = 6370, location = North Carolina, friends = 125, ratio = 0.019623233908948195
+Screen Name =emerydalesio, followers = 801, location = Raleigh, North Carolina, USA, friends = 436, ratio = 0.5443196004993758
+Screen Name =GrouponRDU, followers = 2883, location = Raleigh - Durham, NC, friends = 106, ratio = 0.036767256330211585
+Screen Name =ViiVUS, followers = 2465, location = Research Triangle Park, NC , friends = 192, ratio = 0.07789046653144016
+Screen Name =crabberwral, followers = 2909, location = Raleigh, NC, friends = 145, ratio = 0.049845307665864556
+Screen Name =argylesocial, followers = 10068, location = Durham, NC, USA, friends = 9911, ratio = 0.9844060389352404
+Screen Name =GrouponCLT, followers = 5012, location = Chalotte, NC, friends = 503, ratio = 0.10035913806863528
+Screen Name =KenSmithWRAL, followers = 2566, location = Raleigh, NC, friends = 409, ratio = 0.15939204988308653
+Screen Name =touchdownfriday, followers = 851, location = Greenville, NC, friends = 91, ratio = 0.10693301997649823
+Screen Name =ncinsider, followers = 2719, location = Raleigh, North Carolina, friends = 618, ratio = 0.22728944464876794
+Screen Name =veronicahwhite, followers = 2081, location = North Carolina , friends = 629, ratio = 0.30225852955309945
+Screen Name =wnct9weather, followers = 3353, location = Greenville, North Carolina, friends = 55, ratio = 0.016403220996122875
+Screen Name =JbirchWNCT, followers = 456, location = Greenville, NC, friends = 289, ratio = 0.6337719298245614
+Screen Name =joshshaffer08, followers = 1143, location = Raleigh, NC, friends = 660, ratio = 0.5774278215223098
+Screen Name =HollyAlexandraP, followers = 1373, location = Durham , friends = 1875, ratio = 1.3656227239621268
+Screen Name =dclaybest, followers = 1891, location = Clayton, NC, friends = 1136, ratio = 0.6007403490216816
+Screen Name =kennybeckWXII, followers = 3991, location = North Carolina, friends = 337, ratio = 0.08443998997744927
+Screen Name =imikewilliams, followers = 1501, location = Raleigh/Durham/Chapel Hill, friends = 1176, ratio = 0.7834776815456362
+Screen Name =frank_mickens, followers = 3976, location = Greensboro, NC, friends = 1025, ratio = 0.2577967806841046
+Screen Name =FOX8CindyFarmer, followers = 6631, location = Greensboro, NC, friends = 978, ratio = 0.14748906650580607
+Screen Name =JustinQberry, followers = 1556, location = Raleigh - Durham - Chapel Hill, friends = 1606, ratio = 1.032133676092545
+Screen Name =ptwright, followers = 1652, location = Greensboro, NC , friends = 715, ratio = 0.4328087167070218
+Screen Name =ShannonSmith8, followers = 3471, location = High Point NC, friends = 379, ratio = 0.10919043503313167
+Screen Name =WRALMarsh, followers = 3453, location = Raleigh, NC, friends = 362, ratio = 0.10483637416739068
+Screen Name =Stephanie_Ando, followers = 1332, location = Greensboro, NC, friends = 117, ratio = 0.08783783783783784
+Screen Name =gowenstv5, followers = 2559, location = Raleigh, NC, friends = 64, ratio = 0.025009769441187966
+Screen Name =Em_I_Am, followers = 2882, location = Triad, North Carolina, friends = 826, ratio = 0.2866065232477446
+Screen Name =VanFOX8Weather, followers = 2830, location = Greensboro, NC, friends = 3, ratio = 0.0010600706713780918
+Screen Name =ImKatieHarden, followers = 552, location = Eastern North Carolina , friends = 435, ratio = 0.7880434782608695
+Screen Name =PatrickWNCT, followers = 598, location = Greenville, NC, friends = 559, ratio = 0.9347826086956522
+Screen Name =DavidSawyerWx, followers = 549, location = Greenville, NC, friends = 56, ratio = 0.10200364298724955
+Screen Name =AmyGDunn, followers = 1530, location = Apex, N.C., friends = 210, ratio = 0.13725490196078433
+Screen Name =BoyumTWCnews, followers = 4924, location = Raleigh, NC, friends = 3744, ratio = 0.760357432981316
+Screen Name =JMcKinneywx, followers = 1347, location = Raleigh, NC, friends = 825, ratio = 0.6124721603563474
+Screen Name =AlamanceNC, followers = 1884, location = Alamance County, NC, friends = 5, ratio = 0.002653927813163482
+Screen Name =maggienewland, followers = 960, location = Raleigh, NC, friends = 477, ratio = 0.496875
+Screen Name =NEILLMCNEWS, followers = 5767, location = Greensboro, NC, friends = 846, ratio = 0.14669672273279002
+Screen Name =brookecain, followers = 805, location = Raleigh NC USA, friends = 497, ratio = 0.6173913043478261
+Screen Name =mazewx66, followers = 5757, location = Raleigh, North Carolina, friends = 287, ratio = 0.049852353656418276
+Screen Name =chris8video, followers = 1829, location = The Piedmont Triad, NC, friends = 2010, ratio = 1.0989611809732094
+Screen Name =Ruby, followers = 4798, location = Durham, NC, friends = 1560, ratio = 0.3251354731137974
+Screen Name =ncatsuaggies, followers = 21741, location = Greensboro, N.C. , friends = 1498, ratio = 0.06890207442159975
+Screen Name =BryAustin21, followers = 357783, location = North Carolina, friends = 112323, ratio = 0.31394169091320717
+Screen Name =FaiIedImages, followers = 92775, location = North Carolina, friends = 53, ratio = 0.0005712745890595526
+Screen Name =advncdhindsight, followers = 3217, location = Durham, NC, friends = 171, ratio = 0.05315511345974511
+Screen Name =christmasabbott, followers = 39963, location = Raleigh, NC, friends = 146, ratio = 0.0036533793759227287
+Screen Name =GZipadelli, followers = 51677, location = Mooresvile, NC, friends = 614, ratio = 0.011881494668808173
+Screen Name =CentCampus, followers = 1699, location = Raleigh, NC USA, friends = 690, ratio = 0.40612124779281933
+Screen Name =NCSUhomecoming, followers = 3134, location = Raleigh, NC, friends = 250, ratio = 0.0797702616464582
+Screen Name =AK_ODi, followers = 97842, location = Raleigh, NC, friends = 55260, ratio = 0.5647881277978782
+Screen Name =andreareusing, followers = 6008, location = Chapel Hill, NC, friends = 794, ratio = 0.1321571238348868
+Screen Name =NCStateIES, followers = 1827, location = Raleigh, NC, friends = 1644, ratio = 0.8998357963875205
+Screen Name =ncsuCareer, followers = 2044, location = Raleigh, NC, friends = 175, ratio = 0.08561643835616438
+Screen Name =theACCfootball, followers = 32295, location = Greensboro, N.C., friends = 117, ratio = 0.0036228518346493265
+Screen Name =glbtcenter, followers = 1833, location = Raleigh NC, friends = 523, ratio = 0.28532460447354063
+Screen Name =PackPromos, followers = 2663, location = Raleigh, NC, friends = 64, ratio = 0.02403304543747653
+Screen Name =ChandElaine, followers = 1958, location = Greensboro, NC, friends = 1238, ratio = 0.6322778345250255
+Screen Name =ncartmuseum, followers = 29749, location = Raleigh, NC, friends = 1168, ratio = 0.039261823926854685
+Screen Name =60secondparent, followers = 46302, location = North Carolina, friends = 15713, ratio = 0.3393589909723122
+Screen Name =ACCSports, followers = 26680, location = Raleigh, N.C., friends = 1936, ratio = 0.07256371814092953
+Screen Name =DurhamBulls, followers = 36379, location = Durham, NC, friends = 1965, ratio = 0.05401467879820776
+Screen Name =LoganJames, followers = 7721, location = Raleigh, NC, friends = 4059, ratio = 0.5257091050382074
+Screen Name =kshepherd, followers = 9823, location = Raleigh, NC, friends = 1739, ratio = 0.17703349282296652
+Screen Name =hofftv, followers = 4945, location = Raleigh, NC, friends = 710, ratio = 0.1435793731041456
+Screen Name =NCDOT, followers = 29176, location = North Carolina, friends = 3283, ratio = 0.11252399232245681
+Screen Name =DUKEpress, followers = 18475, location = Durham, NC, friends = 1363, ratio = 0.07377537212449256
+Screen Name =dailytarheel, followers = 30946, location = Chapel Hill, NC, friends = 1287, ratio = 0.041588573644412846
+Screen Name =SocialBlade, followers = 24462, location = Raleigh, NC, friends = 4196, ratio = 0.1715313547543128
+Screen Name =TamaraLackey, followers = 43933, location = Chapel Hill, North Carolina, friends = 399, ratio = 0.009082011244394873
+Screen Name =willistj, followers = 1215, location = Raleigh, North Carolina, friends = 987, ratio = 0.8123456790123457
+Screen Name =laracasey, followers = 31324, location = Chapel Hill, NC, friends = 279, ratio = 0.008906908440812157
+Screen Name =tysiphonehelp, followers = 40980, location = North Carolina, friends = 131, ratio = 0.0031966813079551
+Screen Name =yeproc, followers = 13466, location = North Carolina, friends = 5676, ratio = 0.42150601514926483
+Screen Name =WesPhillips, followers = 8549, location = Raleigh, NC, friends = 998, ratio = 0.1167387998596327
+Screen Name =hc, followers = 4340, location = durham, north carolina, friends = 1874, ratio = 0.43179723502304146
+Screen Name =theuppitynegro, followers = 3299, location = Durham, North Carolina, friends = 1252, ratio = 0.37950894210366776
+Screen Name =947_QDR, followers = 9587, location = Raleigh, NC, friends = 3139, ratio = 0.3274225513716491
+Screen Name =_EliRockwell, followers = 70917, location = North Carolina, friends = 51663, ratio = 0.7284995135158001
+Screen Name =Caseymagic, followers = 2830, location = Morrisville, North Carolina, friends = 646, ratio = 0.2282685512367491
+Screen Name =jrome58, followers = 2637, location = Durham. NC, friends = 965, ratio = 0.36594615092908606
+Screen Name =fenellasaunders, followers = 714, location = Durham, NC, friends = 1005, ratio = 1.4075630252100841
+Screen Name =JonBolds, followers = 1571, location = Durham, NC, friends = 823, ratio = 0.5238701464035647
+Screen Name =durhampoolie, followers = 1116, location = Durham, friends = 1997, ratio = 1.789426523297491
+Screen Name =MarcusSMI, followers = 3662, location = North Carolina, USA, friends = 268, ratio = 0.07318405243036592
+Screen Name =solidfog, followers = 12445, location = North Carolina, friends = 72, ratio = 0.005785456006428285
+Screen Name =Bob_Cass, followers = 13798, location = Durham, friends = 394, ratio = 0.02855486302362661
+Screen Name =aracelis_fbpl, followers = 657, location = USA, North Carolina, friends = 839, ratio = 1.2770167427701675
+Screen Name =Lezz_McDonald2, followers = 41844, location = Memphis,TN/Chapel Hill, NC, friends = 867, ratio = 0.02071981646114138
+Screen Name =nlevett, followers = 20111, location = All over the country!, friends = 305, ratio = 0.015165829645467654
+Screen Name =100daysrealfood, followers = 23659, location = North Carolina, friends = 395, ratio = 0.016695549262437128
+Screen Name =NCEmergency, followers = 13713, location = Raleigh NC, friends = 185, ratio = 0.01349084810034274
+Screen Name =hellokaty, followers = 50792, location = Elon, NC, friends = 776, ratio = 0.015277996534887385
+Screen Name =accmbb, followers = 28301, location = Greensboro, NC, friends = 73, ratio = 0.002579414154976856
+Screen Name =christinamerge, followers = 2317, location = Durham, NC, friends = 1717, ratio = 0.7410444540353905
+Screen Name =poolesdiner, followers = 13276, location = Raleigh, NC, friends = 509, ratio = 0.03833986140403736
+Screen Name =DiamondHeels, followers = 41897, location = Chapel Hill, NC, friends = 106, ratio = 0.0025300140821538533
+Screen Name =RebySky, followers = 47642, location = NYC / NC, friends = 60, ratio = 0.001259392972587213
+Screen Name =FullFrame, followers = 14692, location = Durham, NC, friends = 1656, ratio = 0.1127144023958617
+Screen Name =Duke_Medicine, followers = 31926, location = North Carolina, friends = 453, ratio = 0.01418906220635219
+Screen Name =AICPA_JofA, followers = 49249, location = Durham, NC, friends = 9343, ratio = 0.18970943572458324
+Screen Name =LabSpaces, followers = 13225, location = Durham, NC, friends = 5243, ratio = 0.3964461247637051
+Screen Name =sandimetz, followers = 14487, location = Durham, NC, friends = 210, ratio = 0.014495754814661421
+Screen Name =Luludotcom, followers = 29347, location = Raleigh, NC, United States, friends = 108, ratio = 0.0036801035881009986
+Screen Name =dwarlick, followers = 26785, location = Raleigh, NC USA, friends = 160, ratio = 0.005973492626470039
+Screen Name =gearthblog, followers = 24154, location = Raleigh, NC, friends = 126, ratio = 0.0052165272832657116
+Screen Name =CommsNinja, followers = 6353, location = Chapel Hill, NC, friends = 902, ratio = 0.14198016685030695
+Screen Name =gcaughey, followers = 9343, location = North Carolina, friends = 882, ratio = 0.09440222626565344
+Screen Name =RailHawksFC, followers = 10103, location = Cary, NC, friends = 2252, ratio = 0.22290408789468474
+Screen Name =HighSchoolOT, followers = 26532, location = Raleigh, NC, friends = 1731, ratio = 0.06524197195838986
+Screen Name =codeguy, followers = 5737, location = Chapel Hill, NC, friends = 214, ratio = 0.0373017256405787
+Screen Name =PackSportsTurf, followers = 1811, location = Raleigh, NC, friends = 109, ratio = 0.06018774157923799
+Screen Name =NCSU_MikeMullen, followers = 999, location = Raleigh, NC, friends = 783, ratio = 0.7837837837837838
+Screen Name =NCStateNSP, followers = 2365, location = Raleigh, NC, friends = 203, ratio = 0.08583509513742071
+Screen Name =minebocek, followers = 1012, location = Durham, NC, friends = 252, ratio = 0.2490118577075099
+Screen Name =NCStateEI, followers = 1579, location = Raleigh, NC, friends = 1837, ratio = 1.1633945535148829
+Screen Name =NCStateCHASS, followers = 1529, location = Raleigh, NC, friends = 231, ratio = 0.1510791366906475
+Screen Name =NCStateSciences, followers = 1411, location = Raleigh, North Carolina, friends = 137, ratio = 0.09709425939050319
+Screen Name =DukeSSRI, followers = 939, location = Durham, NC, friends = 571, ratio = 0.6080937167199149
+Screen Name =LAXnOREOS, followers = 22867, location = Raleigh, friends = 765, ratio = 0.03345432282328246
+Screen Name =CreatureBox, followers = 10625, location = North Carolina, friends = 61, ratio = 0.005741176470588236
+Screen Name =WhitneyWay, followers = 55568, location = Greensboro, NC, friends = 349, ratio = 0.006280593147135042
+Screen Name =DukeNews, followers = 12251, location = Durham, N.C., friends = 1044, ratio = 0.08521753326259081
+Screen Name =Ranger_Up, followers = 27352, location = Durham, NC, friends = 889, ratio = 0.03250219362386663
+Screen Name =kTraphagen, followers = 6424, location = Durham, NC, friends = 3187, ratio = 0.4961083437110834
+Screen Name =UNC_Health_Care, followers = 20891, location = Chapel Hill, NC, friends = 803, ratio = 0.03843760471016227
+Screen Name =wralweather, followers = 55967, location = Raleigh, NC, friends = 986, ratio = 0.01761752461271821
+Screen Name =wunc, followers = 19646, location = Chapel Hill, NC, friends = 312, ratio = 0.015881095388374223
+Screen Name =TerriZSoloCEO, followers = 35690, location = Cary, NC, USA, friends = 20779, ratio = 0.5822079013729335
+Screen Name =DPAC, followers = 25821, location = Durham, NC, friends = 1128, ratio = 0.043685372371325665
+Screen Name =WastedFood, followers = 8705, location = Durham, N.C., friends = 1873, ratio = 0.21516369902354968
+Screen Name =johnrobinson, followers = 4816, location = Greensboro, NC, friends = 1552, ratio = 0.3222591362126246
+Screen Name =ignitesma, followers = 24322, location = Research Triangle Park, NC, friends = 8056, ratio = 0.33122276128607847
+Screen Name =markimbriaco, followers = 6290, location = Wake Forest, NC, friends = 1098, ratio = 0.17456279809220987
+Screen Name =TreWizz215, followers = 59183, location = North Carolina, USA, friends = 32162, ratio = 0.5434330804453982
+Screen Name =NCSURecreation, followers = 3571, location = Raleigh, NC, friends = 3070, ratio = 0.8597031643797256
+Screen Name =ChrisKubica, followers = 2108, location = Carrboro, NC, friends = 154, ratio = 0.0730550284629981
+Screen Name =TheFreshMarket, followers = 17633, location = Greensboro, NC, friends = 441, ratio = 0.02500992457324335
+Screen Name =Shannon_Penn, followers = 3807, location = Raleigh, NC, friends = 512, ratio = 0.13448909902810613
+Screen Name =willhardison, followers = 5192, location = Raleigh, NC, friends = 3164, ratio = 0.6093990755007704
+Screen Name =jennieahlgren, followers = 40130, location = North Carolina, USA, friends = 7536, ratio = 0.18778968352853226
+Screen Name =NCCU, followers = 9715, location = Durham, NC, friends = 343, ratio = 0.03530622748327329
+Screen Name =trianglexplorer, followers = 12008, location = Raleigh, NC, friends = 486, ratio = 0.040473017988007995
+Screen Name =ODG_DON, followers = 20000, location = NY/NC, friends = 9686, ratio = 0.4843
+Screen Name =RaleighCityFarm, followers = 3667, location = Raleigh, North Carolina, friends = 603, ratio = 0.16443959640032724
+Screen Name =BlairReeves, followers = 1962, location = Durham, NC, friends = 1579, ratio = 0.8047910295616718
+Screen Name =919Prince, followers = 41663, location = Ruff Raleigh, NC, friends = 98, ratio = 0.002352206994215491
+Screen Name =SarahOvaska, followers = 2401, location = Raleigh, N.C. , friends = 713, ratio = 0.2969596001665972
+Screen Name =Cato_of_Utica, followers = 1502, location = North Carolina, friends = 786, ratio = 0.5233022636484687
+Screen Name =WakeMugshots, followers = 18623, location = Raleigh, NC, friends = 3, ratio = 0.00016109112387907427
+Screen Name =CriminalShow, followers = 7064, location = Durham, NC, friends = 587, ratio = 0.08309739524348811
+Screen Name =BobbyBrantley, followers = 97131, location = kenly nc, friends = 902, ratio = 0.009286427608075692
+Screen Name =philcooksfeat, followers = 2428, location = Durham, North Carolina, friends = 503, ratio = 0.207166392092257
+Screen Name =MattEddyBA, followers = 9396, location = Durham, N.C., friends = 1305, ratio = 0.1388888888888889
+Screen Name =janeurysm, followers = 3241, location = Raleigh, NC, friends = 298, ratio = 0.09194692995988893
+Screen Name =UNCwomensSoccer, followers = 18508, location = Chapel HIll, North Carolina, friends = 184, ratio = 0.009941646855413875
+Screen Name =DukeGHI, followers = 13672, location = Durham, NC, friends = 2990, ratio = 0.21869514335868928
+Screen Name =RealBlameTruth, followers = 44455, location = North Carolina, friends = 241, ratio = 0.005421212462040265
+Screen Name =jjcoop36, followers = 15130, location = Durham, NC, friends = 1608, ratio = 0.10627891606080635
+Screen Name =Yo__SHAWty, followers = 1020, location = North Carolina, USA, friends = 1095, ratio = 1.0735294117647058
+Screen Name =ShipLives, followers = 5637, location = Raleigh, NC, friends = 921, ratio = 0.16338477913783928
+Screen Name =SteveNowickiDU, followers = 913, location = Durham, NC, friends = 603, ratio = 0.660460021905805
+Screen Name =LiveItUpRaleigh, followers = 1931, location = Raleigh, North Carolina, friends = 349, ratio = 0.18073537027446918
+Screen Name =Duke_SA, followers = 1179, location = Durham, NC, friends = 99, ratio = 0.08396946564885496
+Screen Name =ParkScholarship, followers = 1891, location = Raleigh, NC, friends = 1252, ratio = 0.662083553675304
+Screen Name =NCStateRecycles, followers = 1015, location = Raleigh, NC, friends = 519, ratio = 0.5113300492610837
+Screen Name =NCStateCED, followers = 1415, location = Raleigh, NC, friends = 77, ratio = 0.05441696113074205
+Screen Name =ncstatepoolemgt, followers = 1306, location = Raleigh, NC, friends = 74, ratio = 0.05666156202143951
+Screen Name =NCSUPanhellenic, followers = 1775, location = Raleigh, NC, friends = 170, ratio = 0.09577464788732394
+Screen Name =ncstatehousing, followers = 2053, location = Raleigh, North Carolina, friends = 239, ratio = 0.1164150024354603
+Screen Name =theaocproject, followers = 3904, location = Durham, NC, friends = 2535, ratio = 0.6493340163934426
+Screen Name =lebrownlow, followers = 6325, location = Durham, NC, friends = 688, ratio = 0.10877470355731225
+Screen Name =allisonhussey, followers = 1386, location = Durham, NC, friends = 987, ratio = 0.7121212121212122
+Screen Name =DurhamMugshots, followers = 244, location = Durham, NC, friends = 3, ratio = 0.012295081967213115
+Screen Name =JoCoMugs, followers = 1661, location = Johnston County, NC, friends = 3, ratio = 0.001806140878988561
+Screen Name =CreativeGrenade, followers = 26365, location = Raleigh, NC, friends = 497, ratio = 0.018850749099184525
+Screen Name =MARSOCofficial, followers = 10223, location = Camp Lejeune, NC, friends = 111, ratio = 0.010857869509928592
+Screen Name =hissgldnmssr, followers = 3648, location = Durham, NC, friends = 391, ratio = 0.10718201754385964
+Screen Name =SandyDarity, followers = 6076, location = Durham, NC, friends = 902, ratio = 0.14845292955892034
+Screen Name =RobRDunn, followers = 2921, location = Raleigh, North Carolina, friends = 305, ratio = 0.10441629578911332
+Screen Name =Jim_Laffoon, followers = 8466, location = RDU, North Carolina, friends = 119, ratio = 0.014056224899598393
+Screen Name =mkotnc, followers = 939, location = Durham, NC, friends = 676, ratio = 0.7199148029818956
+Screen Name =Rachelkipster, followers = 38213, location = NC, USA, friends = 268, ratio = 0.007013320074320257
+Screen Name =CJcomputersNC, followers = 100206, location = Raleigh, North Carolina, friends = 55118, ratio = 0.5500469033790392
+Screen Name =TheMikeHoag, followers = 28812, location = North Carolina, friends = 1368, ratio = 0.04748021657642649
+Screen Name =MrLeePerry, followers = 6431, location = Raleigh, NC, friends = 521, ratio = 0.08101383921629607
+Screen Name =Danneilwsj, followers = 3345, location = Raleigh, N.C., friends = 0, ratio = 0
+Screen Name =TakeFiveApp, followers = 4218, location = Greensboro, NC, friends = 6, ratio = 0.001422475106685633
+Screen Name =B_Ingram13, followers = 26265, location = Durham, NC, friends = 389, ratio = 0.014810584427945936
+Screen Name =VIIXXIVXCI, followers = 7296, location = Raleigh, NC, friends = 977, ratio = 0.13390899122807018
+Screen Name =MikeSundheim, followers = 7094, location = Raleigh, NC, friends = 756, ratio = 0.10656893149140119
+Screen Name =bear_n_grrr, followers = 316, location = North Carolina, friends = 228, ratio = 0.7215189873417721
+Screen Name =marcashley1, followers = 11237, location = Greensboro, NC, friends = 111, ratio = 0.009878081338435525
+Screen Name =Soccerpolitics, followers = 6014, location = Durham N.C., friends = 199, ratio = 0.033089457931493184
+Screen Name =FakeJDGreear, followers = 14385, location = Durham-Raleigh, NC, friends = 0, ratio = 0
+Screen Name =BrianKaris, followers = 2963, location = Raleigh, NC, friends = 142, ratio = 0.04792440094498819
+Screen Name =CDSDuke, followers = 4322, location = Durham, NC, friends = 1041, ratio = 0.24086071263304026
+Screen Name =ice_chip, followers = 11031, location = Raleigh, N.C., friends = 466, ratio = 0.04224458344665035
+Screen Name =IntraHealth, followers = 10893, location = Chapel Hill, NC, USA, friends = 1306, ratio = 0.11989350959331681
+Screen Name =SmallHD, followers = 20661, location = Cary, NC, friends = 12992, ratio = 0.6288175790136005
+Screen Name =thepublicdomain, followers = 4181, location = Durham, NC, friends = 44, ratio = 0.010523798134417603
+Screen Name =TarHeelMonthly, followers = 21127, location = Chapel Hill, NC, friends = 120, ratio = 0.005679935627396223
+Screen Name =WarmTV, followers = 2352, location = Raleigh NC USA, friends = 580, ratio = 0.2465986394557823
+Screen Name =QJBeat, followers = 58832, location = North Carolina, friends = 428, ratio = 0.007274952406853413
+Screen Name =HPMarketNews, followers = 24017, location = High Point, NC, friends = 2614, ratio = 0.10883957196985469
+Screen Name =carpedurham, followers = 17307, location = Durham, NC, friends = 1692, ratio = 0.09776391055642225
+Screen Name =MyGOMOM, followers = 11346, location = North Carolina, friends = 4789, ratio = 0.4220870791468359
+Screen Name =Lauren0205, followers = 852, location = Durham, NC, friends = 781, ratio = 0.9166666666666666
+Screen Name =DukeAlumni, followers = 10598, location = Durham, NC, friends = 5004, ratio = 0.4721645593508209
+Screen Name =CatsCradleNC, followers = 18612, location = Carrboro, NC, friends = 304, ratio = 0.016333548248441864
+Screen Name =UNCMJschool, followers = 9230, location = Chapel Hill, NC, friends = 3863, ratio = 0.41852654387865657
+Screen Name =tonymerida, followers = 17035, location = Raleigh/Wake Forest, NC , friends = 1955, ratio = 0.11476372174933959
+Screen Name =FurnitureToday, followers = 23895, location = Greensboro, N.C., friends = 392, ratio = 0.016405105670642395
+Screen Name =RaleighGov, followers = 32102, location = Raleigh, NC, friends = 183, ratio = 0.005700579403152451
+Screen Name =TWCNewsRDU, followers = 14785, location = Raleigh, N.C., friends = 826, ratio = 0.05586743320933379
+Screen Name =RaleighNews, followers = 34778, location = Raleigh/Durham, North Carolina, friends = 2629, ratio = 0.07559376617401806
+Screen Name =lifeandscience, followers = 9432, location = Durham, NC, friends = 814, ratio = 0.0863019508057676
+Screen Name =dhatfield, followers = 12999, location = greensboro, nc, friends = 5864, ratio = 0.4511116239710747
+Screen Name =stuarthalloway, followers = 8234, location = Chapel Hill, NC, USA, friends = 561, ratio = 0.06813213504979354
+Screen Name =mmartine_writes, followers = 9510, location = North Carolina, friends = 645, ratio = 0.06782334384858044
+Screen Name =SumoWill, followers = 3248, location = Piedmont Triad, NC, friends = 909, ratio = 0.27986453201970446
+Screen Name =jtobin, followers = 10571, location = Raleigh, NC, friends = 1839, ratio = 0.1739665121558982
+Screen Name =James_Dator, followers = 2641, location = Greensboro, NC, friends = 782, ratio = 0.29609996213555473
+Screen Name =prof_goldberg, followers = 2051, location = Greenville, N.C., friends = 1683, ratio = 0.8205753291077523
+Screen Name =swhelpercom, followers = 32004, location = Durham, North Carolina, friends = 22748, ratio = 0.7107861517310337
+Screen Name =djforge, followers = 3651, location = Raleigh, NC, friends = 1237, ratio = 0.3388112845795672
+Screen Name =RaleighDiocese, followers = 4533, location = Raleigh, NC, friends = 276, ratio = 0.06088682991396426
+Screen Name =ISA_Interchange, followers = 9793, location = RTP, Raleigh, NC, friends = 5821, ratio = 0.5944041662411927
+Screen Name =999TheFan, followers = 8022, location = Raleigh,NC, friends = 462, ratio = 0.05759162303664921
+Screen Name =rtphokie, followers = 1674, location = Raleigh, NC, USA, friends = 952, ratio = 0.5686977299880526
+Screen Name =Miss_Instiinctz, followers = 5518, location = NC :), friends = 997, ratio = 0.18068140630663285
+Screen Name =TheHerald_Sun, followers = 5861, location = Durham, NC, friends = 1313, ratio = 0.22402320423135982
+Screen Name =ericboggs, followers = 2810, location = Durham, NC, USA, friends = 842, ratio = 0.299644128113879
+Screen Name =AliceRadley, followers = 3734, location = Durham, NC, friends = 170, ratio = 0.04552758435993572
+Screen Name =JedediahSPurdy, followers = 1609, location = Durham, NC, friends = 1028, ratio = 0.6389061528899938
+Screen Name =Curtisryan1, followers = 1855, location = North Carolina. , friends = 943, ratio = 0.508355795148248
+Screen Name =Meesh_McMahon, followers = 2223, location = Raleigh, NC, friends = 259, ratio = 0.11650922177237967
+Screen Name =MarkYusko, followers = 7012, location = Chapel Hill, NC, friends = 963, ratio = 0.13733599543639474
+Screen Name =SinaBahram, followers = 2163, location = RTP, North Carolina, friends = 290, ratio = 0.13407304669440592
+Screen Name =NorthCarolinaEE, followers = 4520, location = Raleigh, North Carolina, friends = 2094, ratio = 0.4632743362831858
+Screen Name =huler, followers = 2198, location = Raleigh, NC, friends = 1059, ratio = 0.4818016378525933
+Screen Name =PragmaticAndy, followers = 12290, location = Raleigh, friends = 100, ratio = 0.008136696501220505
+Screen Name =HQRaleigh, followers = 8158, location = Raleigh, NC, friends = 1417, ratio = 0.17369453297376808
+Screen Name =ChancellorFolt, followers = 6234, location = Chapel Hill, NC, friends = 208, ratio = 0.03336541546358678
+Screen Name =andybechtel, followers = 4620, location = North Carolina, USA, friends = 983, ratio = 0.21277056277056278
+Screen Name =okayboonk, followers = 133453, location = Randleman, NC, friends = 40430, ratio = 0.30295309959311517
+Screen Name =teamTblanchard, followers = 8837, location = Queen City, NC, friends = 334, ratio = 0.03779563200181057
+Screen Name =ddccad, followers = 18050, location = North Carolina, USA, friends = 66, ratio = 0.003656509695290859
+Screen Name =Dez32Wells, followers = 10239, location = Raleigh, NC, friends = 336, ratio = 0.032815704658658074
+Screen Name =NCState_DASA, followers = 1199, location = Raleigh, NC, friends = 170, ratio = 0.14178482068390325
+Screen Name =FelipeEastwood, followers = 191332, location = North Carolina, USA, friends = 31835, ratio = 0.16638617690715615
+Screen Name =NCPublicHealth, followers = 2659, location = Raleigh, NC, friends = 262, ratio = 0.09853328318916886
+Screen Name =jadamlucas, followers = 15657, location = Chapel Hill, NC, friends = 185, ratio = 0.0118158012390624
+Screen Name =jr_whitehurst, followers = 36462, location = North Carolina, friends = 240, ratio = 0.006582195162086556
+Screen Name =NCStateWWW, followers = 1320, location = Raleigh, NC, friends = 156, ratio = 0.11818181818181818
+Screen Name =peterubel, followers = 4336, location = Duke University, friends = 296, ratio = 0.06826568265682657
+Screen Name =PastorAndyWOCC, followers = 17009, location = North Carolina, friends = 194, ratio = 0.011405726380151684
+Screen Name =K2Challenge, followers = 1398, location = Raleigh, NC, friends = 110, ratio = 0.07868383404864092
+Screen Name =LegacyofStormie, followers = 53177, location = Summerfield, NC, friends = 45753, ratio = 0.8603907704458694
+Screen Name =1WorldProblem, followers = 4029, location = UNC-Chapel Hill, friends = 43, ratio = 0.010672623479771656
+Screen Name =durhammag, followers = 17666, location = Durham, NC, friends = 1361, ratio = 0.0770406430431337
+Screen Name =WeLoveDowntown, followers = 25837, location = Raleigh, NC, friends = 737, ratio = 0.028524983550721833
+Screen Name =NCSHP, followers = 13343, location = Raleigh, NC, friends = 21, ratio = 0.0015738589522596117
+Screen Name =WyndhamChamp, followers = 4564, location = Greensboro, N.C., friends = 230, ratio = 0.050394390885188434
+Screen Name =NCCommerce, followers = 12660, location = Raleigh, NC, friends = 590, ratio = 0.04660347551342812
+Screen Name =NCSUSurplus, followers = 1818, location = Raleigh, NC, friends = 20, ratio = 0.011001100110011002
+Screen Name =Reencoded, followers = 30523, location = North Carolina, USA, friends = 11976, ratio = 0.3923598597778724
+Screen Name =RepublicStaff, followers = 14787, location = Across the country, friends = 1035, ratio = 0.06999391357273281
+Screen Name =equalitync, followers = 13859, location = North Carolina, friends = 2262, ratio = 0.1632152391947471
+Screen Name =raleighchamber, followers = 23295, location = Raleigh, NC, friends = 2765, ratio = 0.11869499892680833
+Screen Name =BoardgameNews, followers = 10275, location = Apex, NC, USA, friends = 38, ratio = 0.0036982968369829684
+Screen Name =PNCArena, followers = 5408, location = Raleigh, NC, friends = 282, ratio = 0.052144970414201186
+Screen Name =Cree, followers = 24661, location = Durham, NC, USA, friends = 981, ratio = 0.03977940878309882
+Screen Name =chipandcompany, followers = 167476, location = High Point, NC, friends = 6311, ratio = 0.037683011297141085
+Screen Name =PinehurstResort, followers = 14866, location = Pinehurst, NC, friends = 653, ratio = 0.0439257365801157
+Screen Name =TandyQ, followers = 901, location = Elon, NC, friends = 428, ratio = 0.4750277469478357
+Screen Name =NCGOP, followers = 14739, location = North Carolina, friends = 8477, ratio = 0.5751407829567813
+Screen Name =21stprincipal, followers = 17291, location = North Carolina, friends = 5041, ratio = 0.29153895089931176
+Screen Name =rtburg, followers = 3382, location = Chapel Hill, NC, friends = 1714, ratio = 0.5068007096392667
+Screen Name =jeffreylcohen, followers = 11919, location = Chapel Hill, NC, friends = 5965, ratio = 0.5004614481080628
+Screen Name =MLGRyan, followers = 11431, location = Raleigh, NC, friends = 258, ratio = 0.022570203831685766
+Screen Name =CSCleve, followers = 9319, location = Durham, NC, friends = 385, ratio = 0.04131344564867475
+Screen Name =diamondcandles, followers = 38221, location = Durham, NC, friends = 5260, ratio = 0.13762067973103792
+Screen Name =CASEatDuke, followers = 4518, location = Durham, NC, friends = 743, ratio = 0.1644532979194334
+Screen Name =BestCutManInMBB, followers = 4465, location = Cameron Indoor Stadium, friends = 258, ratio = 0.057782754759238525
+Screen Name =Mandolin_Orange, followers = 5209, location = north carolina, usa, friends = 1634, ratio = 0.3136878479554617
+Screen Name =NCStateTextiles, followers = 1400, location = Raleigh, NC, friends = 333, ratio = 0.23785714285714285
+Screen Name =BlueDevilLair, followers = 11651, location = Durham, NC, friends = 2270, ratio = 0.194833061539782
+Screen Name =CSLEPS, followers = 1603, location = Raleigh, NC, friends = 870, ratio = 0.5427323767935122
+Screen Name =kreemo, followers = 14476, location = Creedmoor , friends = 2628, ratio = 0.18154186239292622
+Screen Name =fresh_exchange, followers = 6042, location = Raleigh, North Carolina, friends = 840, ratio = 0.13902681231380337
+Screen Name =ncsu_cals, followers = 3388, location = Raleigh, North Carolina, friends = 2618, ratio = 0.7727272727272727
+Screen Name =BLVCCTYLUS, followers = 105455, location = Raleigh, NC, friends = 2724, ratio = 0.02583092314257266
+Screen Name =camp_lejeune, followers = 9887, location = Camp Lejeune, NC, friends = 35, ratio = 0.0035400020228582986
+Screen Name =NCSUISE, followers = 603, location = Raleigh, NC, friends = 310, ratio = 0.5140961857379768
+Screen Name =DAN_America, followers = 21290, location = Durham, NC, friends = 330, ratio = 0.015500234852043212
+Screen Name =downtowndurham, followers = 16113, location = Durham, NC, friends = 706, ratio = 0.043815552659343386
+Screen Name =UNCpublichealth, followers = 8979, location = Chapel Hill, North Carolina, friends = 243, ratio = 0.027063147343802205
+Screen Name =heelscoach, followers = 8509, location = Chapel Hill NC, friends = 612, ratio = 0.071923845340228
+Screen Name =lenovopress, followers = 25646, location = Morrisville, NC, friends = 717, ratio = 0.027957576230211337
+Screen Name =DotSauce, followers = 16196, location = NC, USA, friends = 7569, ratio = 0.4673376142257348
+Screen Name =nicolelil, followers = 1397, location = Chapel Hill, NC, USA, friends = 1494, ratio = 1.0694345025053686
+Screen Name =jzb, followers = 5532, location = North Carolina, USA, friends = 2036, ratio = 0.3680404916847433
+Screen Name =piraino, followers = 1516, location = Greensboro, NC, USA, friends = 337, ratio = 0.22229551451187335
+Screen Name =dukecoachdj, followers = 10499, location = Durham, NC, friends = 1192, ratio = 0.11353462234498524
+Screen Name =janssenleader, followers = 6299, location = Cary, NC, friends = 889, ratio = 0.1411335132560724
+Screen Name =BossLady_xD, followers = 2833, location = Raleigh, NC , friends = 2022, ratio = 0.7137310271796682
+Screen Name =TheAlexHayden, followers = 10549, location = Goldsboro, North Carolina, friends = 343, ratio = 0.0325149303251493
+Screen Name =RascalTweets, followers = 221741, location = North Carolina, friends = 198536, ratio = 0.8953508823356979
+Screen Name =ItsBastrin, followers = 5434, location = North Carolina, USA, friends = 433, ratio = 0.07968347442031652
+Screen Name =sn_ncaaf, followers = 4797, location = All over the country, friends = 1004, ratio = 0.2092974775901605
+Screen Name =caskaleweek, followers = 9641, location = All over the country, friends = 815, ratio = 0.08453479929467897
+Screen Name =OnlyOTHquotes, followers = 16882, location = Tree Hill, NC, friends = 23, ratio = 0.0013623978201634877
+Screen Name =TheNewClassy, followers = 22389, location = North Carolina, friends = 9533, ratio = 0.42578945017642594
+Screen Name =piepushers, followers = 9212, location = DURHAM, NC, friends = 1430, ratio = 0.15523230568823274
+Screen Name =Ncbeerguys, followers = 8620, location = North Carolina, friends = 1973, ratio = 0.22888631090487238
+Screen Name =aaronbelz, followers = 2348, location = North Carolina, friends = 366, ratio = 0.15587734241908008
+Screen Name =musicmakerblues, followers = 3278, location = Hillsborough, NC, friends = 525, ratio = 0.16015863331299574
+Screen Name =TeamNTS, followers = 3858, location = Kernersville, NC, friends = 353, ratio = 0.09149818558838776
+Screen Name =AgingAbundantly, followers = 13442, location = North Carolina, friends = 8418, ratio = 0.6262460943312007
+Screen Name =Fitzsimon, followers = 3238, location = Raleigh, N.C. , friends = 910, ratio = 0.2810376775787523
+Screen Name =mungowitz, followers = 3194, location = Raleigh, NC, friends = 185, ratio = 0.05792110206637445
+Screen Name =KHIManagement, followers = 9116, location = North Carolina  , friends = 78, ratio = 0.008556384379113647
+Screen Name =MoralMondays, followers = 7709, location = North Carolina, friends = 481, ratio = 0.06239460370994941
+Screen Name =showdownbeatz, followers = 61824, location = north carolina, friends = 15218, ratio = 0.24615036231884058
+Screen Name =TheRealTJSteez, followers = 51439, location = North Carolina, friends = 18867, ratio = 0.3667839576974669
+Screen Name =Jim_Gresham, followers = 2886, location = North Carolina, friends = 150, ratio = 0.05197505197505198
+Screen Name =K8_smallthings, followers = 19692, location = Raleigh, NC, friends = 172, ratio = 0.008734511476741823
+Screen Name =FollowRachelle, followers = 10655, location = knightdale, nc, friends = 713, ratio = 0.0669169404035664
+Screen Name =xscopeapp, followers = 1119, location = Greensboro, NC, friends = 6, ratio = 0.005361930294906166
+Screen Name =JudyMacGarner, followers = 14556, location = Garner, NC, friends = 1122, ratio = 0.07708161582852432
+Screen Name =ohmyveggies, followers = 13996, location = Raleigh, North Carolina, friends = 4663, ratio = 0.33316661903400974
+Screen Name =nickterryMRO, followers = 2912, location = Thomasville, NC, friends = 507, ratio = 0.17410714285714285
+Screen Name =gutenberg_org, followers = 4048, location = University of North Carolina, friends = 70, ratio = 0.017292490118577076
+Screen Name =andymartinjr, followers = 18929, location = Raleigh, NC, friends = 11306, ratio = 0.5972845897828728
+Screen Name =_ShortyGuwop, followers = 1619, location = W. Philadelphia, friends = 302, ratio = 0.1865348980852378
+Screen Name =chefandthef, followers = 8755, location = Kinston, NC, friends = 575, ratio = 0.06567675613934894
+Screen Name =BishopBurbidge, followers = 8578, location = Raleigh, NC, friends = 3, ratio = 0.00034973187223128935
+Screen Name =GoHeelsTV, followers = 21332, location = Chapel Hill, NC, friends = 83, ratio = 0.003890868179261204
+Screen Name =JohnGaudiosi, followers = 2053, location = Raleigh, NC, friends = 447, ratio = 0.21773015099853874
+Screen Name =CarolinaDurham, followers = 11265, location = Durham, NC, friends = 714, ratio = 0.06338215712383488
+Screen Name =rohanlikespants, followers = 3777, location = Raleigh, NC, friends = 164, ratio = 0.04342070426264231
+Screen Name =REAL_LILJ300, followers = 39127, location = some where in NC , friends = 18422, ratio = 0.47082577248447366
+Screen Name =GCSchoolsNC, followers = 26279, location = Guilford County, NC, friends = 336, ratio = 0.012785874652764566
+Screen Name =FossilMan, followers = 22478, location = Raleigh, NC, friends = 74, ratio = 0.003292107838775692
+Screen Name =MGBWHome, followers = 7812, location = North Carolina, friends = 2860, ratio = 0.36610343061955963
+Screen Name =StevenPetrow, followers = 2923, location = Hillsborough, NC, friends = 837, ratio = 0.2863496407800205
+Screen Name =uncmenslacrosse, followers = 23340, location = Chapel Hill, N.C., friends = 69, ratio = 0.0029562982005141387
+Screen Name =KayYowFund, followers = 3965, location = Raleigh, NC, friends = 1617, ratio = 0.4078184110970996
+Screen Name =VictoryJunction, followers = 7520, location = Randleman, NC, friends = 566, ratio = 0.07526595744680852
+Screen Name =UNCmenssoccer, followers = 9842, location = Chapel Hill, N.C., friends = 278, ratio = 0.028246291404186143
+Screen Name =ECUAthletics, followers = 18913, location = Greenville, N.C., friends = 69, ratio = 0.003648284248929308
+Screen Name =petermillar, followers = 10489, location = Raleigh, NC, friends = 1062, ratio = 0.10124892744780246
+Screen Name =thestorywithdg, followers = 3601, location = Chapel Hill, N.C., friends = 1426, ratio = 0.39600111080255485
+Screen Name =WakeGOV, followers = 22542, location = Raleigh, NC, friends = 406, ratio = 0.01801082423919794
+Screen Name =elliesnow, followers = 6333, location = Durham, NC, friends = 560, ratio = 0.08842570661613769
+Screen Name =joekreiner, followers = 952, location = Raleigh,NC, friends = 242, ratio = 0.2542016806722689
+Screen Name =TangerOutlets, followers = 23826, location = Greensboro, NC, friends = 1497, ratio = 0.06283052127927474
+Screen Name =GailPerrync, followers = 13973, location = Raleigh, North Carolina, friends = 6276, ratio = 0.44915193587633295
+Screen Name =epictanyawatson, followers = 6045, location = Raleigh, NC, friends = 103, ratio = 0.01703887510339123
+Screen Name =kwissoker, followers = 3237, location = Durham, NC, friends = 2351, ratio = 0.7262897744825456
+Screen Name =uncpressblog, followers = 5435, location = chapel hill, north carolina, friends = 2322, ratio = 0.42723091076356945
+Screen Name =loneriderbeer, followers = 13768, location = Raleigh, NC, friends = 1575, ratio = 0.11439570017431726
+Screen Name =UNCTV, followers = 8377, location = RTP, NC, friends = 596, ratio = 0.0711471887310493
+Screen Name =ErinCLane, followers = 8712, location = Raleigh, NC, friends = 4411, ratio = 0.5063131313131313
+Screen Name =David_N_Wilson, followers = 5871, location = North Carolina, friends = 3097, ratio = 0.5275080906148867
+Screen Name =scotwingo, followers = 6994, location = RTP, NC, friends = 1699, ratio = 0.24292250500428939
+Screen Name =jjx, followers = 9550, location = Cary, NC, friends = 1078, ratio = 0.11287958115183246
+Screen Name =shepazu, followers = 3146, location = Chapel Hill, NC, friends = 645, ratio = 0.20502225047679593
+Screen Name =JamesKotecki, followers = 2582, location = Raleigh, NC, friends = 1925, ratio = 0.7455460883036406
+Screen Name =NewsandRecord, followers = 22333, location = Greensboro, NC, friends = 392, ratio = 0.017552500783593786
+Screen Name =LauraLeslie, followers = 5180, location = Raleigh, NC, friends = 560, ratio = 0.10810810810810811
+Screen Name =GinnyHam, followers = 4038, location = Raleigh, NC, friends = 780, ratio = 0.19316493313521546
+Screen Name =JulieJoyce, followers = 13857, location = Greensboro NC, friends = 1000, ratio = 0.07216569242981886
+Screen Name =GetOutOfDebtGuy, followers = 19342, location = Raleigh, NC, friends = 206, ratio = 0.010650398097404612
+Screen Name =talosman, followers = 902, location = Greensboro, NC, friends = 266, ratio = 0.29490022172949004
+Screen Name =ifcorey, followers = 1151, location = Greensboro, NC, friends = 225, ratio = 0.19548218940052128
+Screen Name =JamesCurle, followers = 4024, location = Raleigh, NC, friends = 842, ratio = 0.20924453280318092
+Screen Name =DukeSanford, followers = 3160, location = Durham, NC, friends = 1028, ratio = 0.32531645569620254
+Screen Name =Bigmo102, followers = 6880, location = North Carolina, friends = 1444, ratio = 0.20988372093023255
+Screen Name =cocoaphony, followers = 2885, location = Raleigh, NC, friends = 221, ratio = 0.07660311958405545
+Screen Name =artsncstate, followers = 841, location = Raleigh, NC, USA, friends = 595, ratio = 0.7074910820451843
+Screen Name =NCStateSAA, followers = 1504, location = Raleigh, NC, friends = 237, ratio = 0.15757978723404256
+Screen Name =Walshpack, followers = 1254, location = Raleigh, NC, friends = 279, ratio = 0.22248803827751196
+Screen Name =ncsurobotics, followers = 431, location = Raleigh, NC, friends = 312, ratio = 0.7238979118329466
+Screen Name =NonprofitsNCSU, followers = 747, location = Raleigh, North Carolina, friends = 341, ratio = 0.4564926372155288
+Screen Name =NCStateFSL, followers = 1436, location = Raleigh, NC, friends = 222, ratio = 0.15459610027855153
+Screen Name =NCStateCNR, followers = 761, location = Raleigh, NC, friends = 45, ratio = 0.05913272010512484
+Screen Name =NCSUSHS, followers = 1081, location = Raleigh, NC, friends = 315, ratio = 0.2913968547641073
+Screen Name =NCSUBlackAlumni, followers = 1055, location = RALEIGH, NC, friends = 1072, ratio = 1.0161137440758294
+Screen Name =NCSUFOL, followers = 682, location = Raleigh, NC, friends = 168, ratio = 0.24633431085043989
+Screen Name =AndrewCPark, followers = 729, location = Chapel Hill, NC, friends = 1591, ratio = 2.1824417009602195
+Screen Name =JackMenhorn, followers = 2019, location = north carolina, friends = 991, ratio = 0.4908370480435859
+Screen Name =NCDavidMenconi, followers = 1563, location = Raleigh, NC, friends = 1140, ratio = 0.7293666026871402
+Screen Name =LowellOakley, followers = 12857, location = Bull Durham, friends = 184, ratio = 0.014311270125223614
+Screen Name =NCPreps, followers = 4885, location = North Carolina, friends = 978, ratio = 0.20020470829068576
+Screen Name =UN_Liberia, followers = 2625, location = Liberia, friends = 352, ratio = 0.1340952380952381
+Screen Name =NilaGrier, followers = 38806, location = North Carolina , friends = 483, ratio = 0.012446528887285471
+Screen Name =C0ffeeNCupcakes, followers = 19346, location = North Carolina , friends = 427, ratio = 0.022071746097384472
+Screen Name =JLeBlancDesign, followers = 9958, location = Raleigh, NC, friends = 657, ratio = 0.06597710383611168
+Screen Name =MittringMartin, followers = 1931, location = North Carolina, friends = 62, ratio = 0.03210771620921802
+Screen Name =pofbachelors, followers = 2029, location = Chapel Hill, NC, friends = 696, ratio = 0.3430261212419911
+Screen Name =BridgetGaudette, followers = 1673, location = Durham, NC, friends = 68, ratio = 0.04064554692169755
+Screen Name =BuckeyeBullet10, followers = 13671, location = High Point, NC, friends = 24, ratio = 0.0017555409260478386
+Screen Name =epaigewhite, followers = 7159, location = North Carolina, friends = 159, ratio = 0.022209805838804303
+Screen Name =CoachBrewerUNC, followers = 9179, location = Chapel Hill, NC, friends = 730, ratio = 0.07952936049678615
+Screen Name =SparcmacLive, followers = 14833, location = North Carolina, friends = 132, ratio = 0.00889907638373896
+Screen Name =PeteNub, followers = 13185, location = Cary, NC, friends = 235, ratio = 0.01782328403488813
+Screen Name =Drew_Herring, followers = 4332, location = Benson, NC, friends = 232, ratio = 0.05355493998153278
+Screen Name =EricaGaylee, followers = 34430, location = North Carolina, friends = 1517, ratio = 0.044060412431019456
+Screen Name =akostenberger, followers = 6699, location = North Carolina, friends = 294, ratio = 0.0438871473354232
+Screen Name =3__BILLYO, followers = 11818, location = North carolina, friends = 191, ratio = 0.01616178710441699
+Screen Name =RyanMadanickMD, followers = 10661, location = Chapel Hill, NC, friends = 2501, ratio = 0.23459337773192007
+Screen Name =ErwinRWB, followers = 2503, location = Pinehurst, NC, friends = 340, ratio = 0.13583699560527368
+Screen Name =EmmaBlaney, followers = 11149, location = North Carolina, friends = 885, ratio = 0.07937931653063054
+Screen Name =cbmcgrath24, followers = 3364, location = Chapel Hill, friends = 36, ratio = 0.01070154577883472
+Screen Name =DNOELIII, followers = 6585, location =  BULL CITY NC, friends = 834, ratio = 0.1266514806378132
+Screen Name =USABaseballCNT, followers = 7383, location = Durham, N.C., friends = 202, ratio = 0.02736015169985101
+Screen Name =lawlornfl, followers = 11960, location = Chapel Hill, NC, friends = 725, ratio = 0.06061872909698997
+Screen Name =juliegarzaradio, followers = 2440, location = Carolina del Norte , friends = 508, ratio = 0.2081967213114754
+Screen Name =jadeteta, followers = 6955, location = North Carolina, friends = 374, ratio = 0.053774263120057515
+Screen Name =CapeLookoutNPS, followers = 4961, location = North Carolina, friends = 641, ratio = 0.12920782100382988
+Screen Name =DurhamFarmerMkt, followers = 12727, location = Durham, NC, friends = 114, ratio = 0.008957334800031429
+Screen Name =SASsoftware, followers = 18909, location = Cary, NC, friends = 478, ratio = 0.02527896768734465
+Screen Name =donaldhtaylorjr, followers = 2117, location = Durham, NC, friends = 1276, ratio = 0.6027397260273972
+Screen Name =encaen, followers = 1591, location = Durham, NC, friends = 472, ratio = 0.29666876178504087
+Screen Name =justTovi, followers = 2281, location = Greensboro, NC, friends = 927, ratio = 0.4064007014467339
+Screen Name =BruceAshford, followers = 6809, location = Wake Forest, NC, friends = 675, ratio = 0.09913349977970333
+Screen Name =tonyperozo, followers = 1164, location = NC, USA, friends = 64, ratio = 0.054982817869415807
+Screen Name =Coast_Pop, followers = 2268, location = Durham, NC, USA, friends = 2208, ratio = 0.9735449735449735
+Screen Name =bbstats, followers = 2877, location = Durham, NC, friends = 2132, ratio = 0.7410497045533542
+Screen Name =RaleighDenim, followers = 5987, location = Raleigh, NC, friends = 208, ratio = 0.034741940871889095
+Screen Name =TheSunMagazine, followers = 6963, location = Chapel Hill, North Carolina, friends = 2033, ratio = 0.2919718512135574
+Screen Name =uncwlax, followers = 10486, location = Chapel Hill, N.C., friends = 92, ratio = 0.008773602899103566
+Screen Name =jonathankappler, followers = 4788, location = Raleigh, NC, friends = 1465, ratio = 0.3059732664995823
+Screen Name =ncwomenssoccer, followers = 9897, location = Chapel Hill, N.C., friends = 29, ratio = 0.0029301808628877436
+Screen Name =DukeLaw, followers = 10238, location = Durham, NC, friends = 202, ratio = 0.019730416096893924
+Screen Name =Jakwxn, followers = 64602, location = North Carolina, friends = 23580, ratio = 0.3650041794371691
+Screen Name =UNCG, followers = 15192, location = Greensboro, North Carolina, friends = 1381, ratio = 0.09090310689836756
+Screen Name =IpasOrg, followers = 5668, location = Chapel Hill, NC, friends = 849, ratio = 0.14978828510938602
+Screen Name =EHPonline, followers = 3878, location = Research Triangle Park, NC USA, friends = 109, ratio = 0.02810727178958226
+Screen Name =DCleggPhoto, followers = 19744, location = Greensboro NC , friends = 3329, ratio = 0.1686081847649919
+Screen Name =KIMOBRAND, followers = 11030, location = spring lake, nc, friends = 38, ratio = 0.0034451495920217587
+Screen Name =annalistic, followers = 504, location = Durham , friends = 361, ratio = 0.7162698412698413
+Screen Name =bylinerp, followers = 4643, location = North Carolina, friends = 320, ratio = 0.06892095627826836
+Screen Name =OpenFarmSunday, followers = 11512, location = Down on the farm, friends = 2688, ratio = 0.2334954829742877
+Screen Name =UNCEquipment, followers = 6120, location = Chapel Hill,NC, friends = 569, ratio = 0.09297385620915033
+Screen Name =TheTaxAdviser, followers = 20906, location = Durham, NC, friends = 12, ratio = 0.0005739978953410505
+Screen Name =facingsouth, followers = 4525, location = Durham, NC, friends = 1152, ratio = 0.25458563535911605
+Screen Name =AshleyAllgaier, followers = 15673, location = North Carolina, friends = 790, ratio = 0.050405155362725704
+Screen Name =basketballncaa, followers = 18206, location = Chapel Hill NC, friends = 211, ratio = 0.011589585850818412
+Screen Name =accfootballnews, followers = 13006, location = Pittsboro, NC, friends = 1091, ratio = 0.08388436106412425
+Screen Name =UNCGAA, followers = 10137, location = Chapel Hill, NC, friends = 409, ratio = 0.040347242773996254
+Screen Name =GCNJustin, followers = 7408, location = Raleigh, NC, friends = 331, ratio = 0.04468142548596112
+Screen Name =ShopLocRaleigh, followers = 19096, location = Raleigh, NC, friends = 1525, ratio = 0.0798596564725597
+Screen Name =LenTesta, followers = 13438, location = Greensboro, NC, friends = 87, ratio = 0.006474177705015628
+Screen Name =uncwbb, followers = 9873, location = Chapel Hill, N.C., friends = 77, ratio = 0.007799047908437152
+Screen Name =Gbocoliseum, followers = 16441, location = Greensboro,NC, friends = 1043, ratio = 0.06343896356669303
+Screen Name =Duke_WBB, followers = 8301, location = Cameron Indoor Stadium, friends = 379, ratio = 0.04565714974099506
+Screen Name =DurhamChamber, followers = 11085, location = Durham, NC, friends = 1265, ratio = 0.11411817771763645
+Screen Name =cavaticat, followers = 1606, location = Raleigh, NC, friends = 343, ratio = 0.21357409713574096
+Screen Name =RDUAirport, followers = 8202, location = Research Triangle Region, NC, friends = 371, ratio = 0.04523287003169959
+Screen Name =DrDHolt, followers = 346, location = North Carolina, friends = 505, ratio = 1.4595375722543353
+Screen Name =RaleighWake, followers = 11420, location = Raleigh, N.C., friends = 869, ratio = 0.07609457092819615
+Screen Name =kwbeck, followers = 635, location = Raleigh, NC, friends = 920, ratio = 1.4488188976377954
+Screen Name =heywren, followers = 3862, location = Durham NC, friends = 1328, ratio = 0.3438632832729156
+Screen Name =jayandjack, followers = 12714, location = Raleigh, NC, friends = 7183, ratio = 0.5649677520843165
+Screen Name =michaeltorbert, followers = 18229, location = Cary, North Carolina, friends = 331, ratio = 0.01815788030061989
+Screen Name =sarapeach, followers = 2374, location = North Carolina, USA, friends = 1271, ratio = 0.5353833192923336
+Screen Name =EmilyAyerThomas, followers = 10801, location = Chapel Hill, NC, friends = 149, ratio = 0.0137950189797241
+Screen Name =TriangleFoodGuy, followers = 11161, location = RTP, NC., friends = 1750, ratio = 0.15679598602275782
+Screen Name =DurhamCounty, followers = 9203, location = Durham, NC, friends = 142, ratio = 0.01542975116809736
+Screen Name =insideplaya, followers = 1869, location = Soul City, friends = 1609, ratio = 0.860888175494917
+Screen Name =greensborocity, followers = 17939, location = Greensboro, NC, friends = 1545, ratio = 0.08612520207369419
+Screen Name =pennholderness, followers = 8611, location = Raleigh, Durham, Chapel Hill, friends = 426, ratio = 0.04947160608523981
+Screen Name =withoutmelissa, followers = 6148, location = Raleigh, NC, friends = 1068, ratio = 0.17371502927781393
+Screen Name =kellyhines, followers = 9086, location = Greensboro,NC, friends = 4016, ratio = 0.44199867928681486
+Screen Name =shamnad, followers = 2481, location = Ether, friends = 315, ratio = 0.12696493349455865
+Screen Name =LeeYount, followers = 2488, location = North Carolina, USA, friends = 1636, ratio = 0.657556270096463
+Screen Name =ryanjparker, followers = 1306, location = Raleigh, NC, friends = 1169, ratio = 0.8950995405819295
+Screen Name =NCPolicyWatch, followers = 9856, location = North Carolina, friends = 61, ratio = 0.006189123376623377
+Screen Name =saucyglo, followers = 14375, location = Littleton, NC, friends = 944, ratio = 0.0656695652173913
+Screen Name =chroniclesports, followers = 6707, location = Durham, NC, friends = 123, ratio = 0.018339048755032054
+Screen Name =FlyLady, followers = 13728, location = North Carolina, friends = 21, ratio = 0.0015297202797202797
+Screen Name =zoecarnate, followers = 14065, location = Raleigh, North Carolina, friends = 8734, ratio = 0.6209740490579453
+Screen Name =onemomsworld, followers = 6794, location = North Carolina, friends = 4422, ratio = 0.6508684133058581
+Screen Name =Quintiles, followers = 13968, location = Durham, North Carolina, friends = 1961, ratio = 0.14039232531500573
+Screen Name =rikkiends, followers = 4343, location = Raleigh, NC, friends = 2668, ratio = 0.6143218973060097
+Screen Name =NasherMuseum, followers = 5014, location = Durham, NC, friends = 239, ratio = 0.04766653370562425
+Screen Name =bullcity, followers = 7023, location = Durham, North Carolina, friends = 152, ratio = 0.021643172433433007
+Screen Name =brianchappell, followers = 7170, location = Raleigh NC, friends = 391, ratio = 0.054532775453277546
+Screen Name =JeffTippett, followers = 18179, location = Raleigh, NC, friends = 12548, ratio = 0.6902469882831839
+Screen Name =WITN, followers = 14258, location = Eastern North Carolina, friends = 14, ratio = 0.0009819048954972647
+Screen Name =armandmorin, followers = 12463, location = Wake Forest, NC USA, friends = 51, ratio = 0.004092112653454225
+Screen Name =ayse, followers = 11583, location = Durham, NC, friends = 693, ratio = 0.05982905982905983
+Screen Name =averyj, followers = 4605, location = Raleigh, NC, friends = 841, ratio = 0.18262757871878393
+Screen Name =mrhinkle, followers = 7165, location = Cary,NC, friends = 2210, ratio = 0.30844382414515004
+Screen Name =fstutzman, followers = 2013, location = Durham, NC, friends = 403, ratio = 0.20019870839542972
+Screen Name =WRALSportsFan, followers = 8002, location = Raleigh, North Carolina, friends = 683, ratio = 0.08535366158460385
+Screen Name =thatjeffsmith, followers = 4703, location = Cary, NC, friends = 1873, ratio = 0.39825643206463957
+Screen Name =LTDHQ, followers = 12005, location = Raleigh, NC, friends = 3680, ratio = 0.30653894210745525
+Screen Name =DukeLemurCenter, followers = 5129, location = Durham, NC, friends = 2579, ratio = 0.5028270618054201
+Screen Name =steveashley, followers = 7027, location = North Carolina, friends = 197, ratio = 0.028034723210473886
+Screen Name =WomensCouncil, followers = 31364, location = across the country, friends = 2865, ratio = 0.09134676699400587
+Screen Name =MotherEarthBrew, followers = 15452, location = Kinston, NC, friends = 867, ratio = 0.056109241522133056
+Screen Name =thenotoriousmeg, followers = 5548, location = Hillsborough, NC, friends = 1424, ratio = 0.25666906993511174
+Screen Name =bellalimento, followers = 9269, location = Raleigh, NC , friends = 1842, ratio = 0.1987269392598986
+Screen Name =mikemulhern, followers = 8487, location = North Carolina, friends = 645, ratio = 0.07599858607281725
+Screen Name =thegreengrok, followers = 3188, location = Durham, NC, friends = 1178, ratio = 0.3695106649937265
+Screen Name =tragicherorec, followers = 15945, location = Raleigh, NC, friends = 5197, ratio = 0.32593289432423955
+Screen Name =eburnette, followers = 1850, location = NC, USA, friends = 243, ratio = 0.13135135135135134
+Screen Name =stillbeingmolly, followers = 4404, location = Durham, NC, friends = 1103, ratio = 0.25045413260672117
+Screen Name =kaitgoalen, followers = 2212, location = Raleigh, NC, friends = 909, ratio = 0.41094032549728754
+Screen Name =gogrowgo, followers = 11281, location = North Carolina, friends = 6708, ratio = 0.5946281358035636
+Screen Name =pjwaldron, followers = 1450, location = North Carolina, friends = 554, ratio = 0.3820689655172414
+Screen Name =onlyburger, followers = 13199, location = Durham, North Carolina, USA, friends = 226, ratio = 0.017122509281006136
+Screen Name =JaneBozarth, followers = 13586, location = RDU, friends = 1738, ratio = 0.12792580597674078
+Screen Name =alvinreid, followers = 14062, location = Raleigh-Durham, NC, friends = 8636, ratio = 0.6141373915516997
+Screen Name =kenanflagler, followers = 9940, location = Chapel Hill, NC, USA, friends = 3368, ratio = 0.33883299798792754
+Screen Name =NCStateFair, followers = 15575, location = Raleigh, N.C., friends = 3435, ratio = 0.22054574638844301
+Screen Name =jeremysaid, followers = 17045, location = Raleigh, NC, friends = 11776, ratio = 0.6908770900557348
+Screen Name =cscncsu, followers = 705, location = Raleigh, NC, friends = 70, ratio = 0.09929078014184398
+Screen Name =UNCWBBCoach, followers = 5995, location = Chapel Hill, friends = 217, ratio = 0.03619683069224354
+Screen Name =JayyDalton, followers = 118328, location = Gate City, North Carolina, friends = 95069, ratio = 0.8034362112095194
+Screen Name =tinacurrin, followers = 1290, location = Raleigh, NC , friends = 107, ratio = 0.08294573643410853
+Screen Name =rosehoban, followers = 1659, location = Research Triangle Area, NC, friends = 194, ratio = 0.11693791440626884
+Screen Name =GrierMartin, followers = 2509, location = Raleigh, NC, friends = 199, ratio = 0.07931446791550419
+Screen Name =ToddStiefel, followers = 2506, location = Raleigh, NC, friends = 219, ratio = 0.087390263367917
+Screen Name =lukashodge, followers = 1132, location = North Carolina, USA, friends = 619, ratio = 0.5468197879858657
+Screen Name =NCStateLIVE, followers = 652, location = Raleigh NC, friends = 474, ratio = 0.7269938650306749
+Screen Name =NCStateSeniors, followers = 1385, location = Raleigh, NC, friends = 380, ratio = 0.2743682310469314
+Screen Name =NubianMessage, followers = 825, location = Raleigh, N.C. , friends = 440, ratio = 0.5333333333333333
+Screen Name =Agromeck, followers = 547, location = Raleigh, N.C., friends = 201, ratio = 0.36745886654478976
+Screen Name =ecencsu, followers = 559, location = Raleigh, North Carolina, USA, friends = 64, ratio = 0.11449016100178891
+Screen Name =NCStateIFC, followers = 612, location = Raleigh, NC, friends = 203, ratio = 0.33169934640522875
+Screen Name =exploratoryncsu, followers = 639, location = Raleigh, NC, friends = 69, ratio = 0.107981220657277
+Screen Name =ncsu_helpdesk, followers = 668, location = Raleigh, NC, friends = 11, ratio = 0.016467065868263474
+Screen Name =michiamoali, followers = 1091, location = Elon, NC, friends = 703, ratio = 0.6443629697525206
+Screen Name =chrisheivly, followers = 16526, location = Durham, NC, friends = 543, ratio = 0.032857315744886845
+Screen Name =YelpNCTriangle, followers = 6657, location = Raleigh, NC, friends = 2060, ratio = 0.309448700615893
+Screen Name =mlananna, followers = 3813, location = Durham, NC, friends = 991, ratio = 0.25990034093889325
+Screen Name =MattTomasulo, followers = 2520, location = Raleigh, NC, friends = 395, ratio = 0.15674603174603174
+Screen Name =NCLeg, followers = 10636, location = North Carolina, friends = 286, ratio = 0.02688980819857089
+Screen Name =LFormichelli, followers = 6776, location = Apex, NC, friends = 245, ratio = 0.03615702479338843
+Screen Name =LatinMami, followers = 3918, location = North Carolina, friends = 1811, ratio = 0.4622256253190403
+Screen Name =Scarletjupiter, followers = 7727, location = Chapel Hill, NC, friends = 3135, ratio = 0.40572020188947844
+Screen Name =ItsTheoryTucker, followers = 552, location = Raleigh, NC, friends = 417, ratio = 0.7554347826086957
+Screen Name =AdrianaConsuel6, followers = 259, location = North Carolina, friends = 66, ratio = 0.2548262548262548
+Screen Name =chefsouth, followers = 7715, location = Kinston, NC, friends = 1025, ratio = 0.13285806869734285
+Screen Name =GilMartinRCR, followers = 4843, location = North Carolina , friends = 144, ratio = 0.029733636175924016
+Screen Name =TheAllenHolder, followers = 135933, location = North Carolina, USA, friends = 44142, ratio = 0.3247335084195891
+Screen Name =Dognition, followers = 3684, location = Durham, NC, friends = 329, ratio = 0.08930510314875136
+Screen Name =HHinsonPhoto, followers = 3540, location = North Carolina, friends = 298, ratio = 0.08418079096045197
+Screen Name =ncnaacp, followers = 5490, location = North Carolina, friends = 485, ratio = 0.0883424408014572
+Screen Name =ZachWiltrout, followers = 228, location = Holly Springs, North Carolina, friends = 179, ratio = 0.7850877192982456
+Screen Name =Barry_Yeoman, followers = 1511, location = Durham, N.C., friends = 780, ratio = 0.5162144275314361
+Screen Name =John_Danowski, followers = 7145, location = Durham, North Carolina, friends = 140, ratio = 0.01959412176347096
+Screen Name =ChirbaChirba, followers = 10341, location = Durham, North Carolina, friends = 769, ratio = 0.07436418141378977
+Screen Name =brostoevsky, followers = 1671, location = durham, friends = 336, ratio = 0.20107719928186715
+Screen Name =AInsights, followers = 2669, location = Durham, NC, friends = 1228, ratio = 0.46009741476208316
+Screen Name =CarlyPyatte, followers = 1764, location = Raleigh, NC, friends = 510, ratio = 0.2891156462585034
+Screen Name =5tefanK, followers = 21804, location = North Carolina (USA), friends = 3727, ratio = 0.17093193909374427
+Screen Name =NancyMcFarlane, followers = 6878, location = Raleigh, NC, friends = 1540, ratio = 0.22390229717941262
+Screen Name =FirstFridayRal, followers = 14007, location = Raleigh, NC , friends = 979, ratio = 0.06989362461626329
+Screen Name =Natty_Greenes, followers = 12719, location = Greensboro, NC, friends = 2216, ratio = 0.17422753361113294
+Screen Name =ncculture, followers = 6084, location = North Carolina, friends = 1483, ratio = 0.24375410913872453
+Screen Name =CollegeOfMusic2, followers = 9423, location = Raleigh, NC, friends = 2756, ratio = 0.292475856945771
+Screen Name =ashleymccreery2, followers = 14093, location = Garner, NC, friends = 1538, ratio = 0.10913219328744767
+Screen Name =ryebarcott, followers = 19030, location = North Carolina, friends = 457, ratio = 0.024014713610089333
+Screen Name =bluedevilsvoice, followers = 4189, location = Durham, NC USA, friends = 968, ratio = 0.23108140367629507
+Screen Name =RianMileti, followers = 126, location = North Carolina, USA, friends = 9, ratio = 0.07142857142857142
+Screen Name =TheRamsClub, followers = 11757, location = Chapel Hill, NC, friends = 161, ratio = 0.013693969550055286
+Screen Name =camraleigh, followers = 8863, location = Raleigh, NC, friends = 757, ratio = 0.08541126029561097
+Screen Name =KrisRoadruck, followers = 16659, location = Raleigh, NC, friends = 397, ratio = 0.02383096224263161
+Screen Name =greensbororevie, followers = 7525, location = Greensboro, NC, friends = 693, ratio = 0.09209302325581395
+Screen Name =919sfinestjcole, followers = 945, location = North Carolina, USA, friends = 499, ratio = 0.5280423280423281
+Screen Name =YungJuce, followers = 1258, location = N. Carolina , friends = 1050, ratio = 0.834658187599364
+Screen Name =The1BlueDevil, followers = 9550, location = Durham, NC, friends = 213, ratio = 0.022303664921465967
+Screen Name =cgodwin23, followers = 8748, location = Greenville, NC, friends = 541, ratio = 0.0618427069044353
+Screen Name =HeartLikeMine10, followers = 1124, location = Raleigh, friends = 487, ratio = 0.4332740213523132

@@ -1,0 +1,15 @@
+{
+  "name": "myTwitApp",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "debug": "~2.1.1",
+    "genderize": "^1.5.1",
+    "mongodb": "^2.0.24",
+    "ntwitter": "^0.5.0",
+    "twit": "^2.1.0",
+    "unirest": "^0.4.2",
+    "user-stream": "0.0.7",
+    "jsonfile": "latest"
+  }
+}

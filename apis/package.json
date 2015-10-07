@@ -1,0 +1,17 @@
+{
+  "name": "apis",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "async": "^1.4.2",
+    "csv-parse": "^1.0.0",
+    "fs": "0.0.2",
+    "jsdom": "^3.1.2",
+    "jsonfile": "^2.2.1",
+    "mongodb": "^2.0.43",
+    "stream-transform": "^0.1.0",
+    "timezonedb-node": "^1.0.3",
+    "timezoner": "^0.1.9",
+    "unirest": "^0.4.2"
+  }
+}
