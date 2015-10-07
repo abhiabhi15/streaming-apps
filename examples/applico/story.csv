@@ -1,0 +1,13 @@
+story_id,story_name,story_type,estimate
+77451430,story 7,feature,8
+77451432,story 13,feature,4
+77451434,story 16,feature,2
+77451436,story 22,feature,4
+77451438,story 23,feature,2
+86456074,story 9,feature,2
+86456396,story 10,feature,4
+86471332,story 1,bug,0
+86471904,story 2,bug,0
+86472102,story 5,bug,0
+86473072,story 11,bug,0
+86473092,story 22,bug,0
