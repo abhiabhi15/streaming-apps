@@ -14,7 +14,7 @@ var genderCache;
 
 var jsonFile = require('jsonfile');
 var util = require('util');
-var filename =  '/home/abhishek/dstools/streaming-apps/mongoTwit/gender.json';
+var filename =  '/home/abhishek/dstools/streaming-apps/api/gender.json';
 
 db.open(function(err, db) {
 	  assert.equal(null, err);
