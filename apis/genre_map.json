@@ -1,0 +1,27 @@
+{
+  "dict": {
+  	"Action & Adventure" : 	["action","adventure"],
+	"Kids & Family" : ["kids","family"],
+	"Mystery & Thrillers" : ["mystery","thriller"],
+	"Drama" : ["drama"],
+	"Comedy" : ["comedy"],
+	"Action" : ["action"],
+	"Thriller" : ["thriller"],
+	"Romance" : ["romance"],
+	"The Comedies" : ["comedy"],
+	"Adventure" : ["adventure"],
+	"Documentary" : ["documentary"],
+	"Crime & Conspiracy" : ["crime"],
+	"The Tragedies" : ["tragedy"],
+	"Fantasy" : ["fantasy"],
+	"Military & War" : ["war"],
+	"General" : ["general"],
+	"Adventures" : ["adventure"],
+	"Mystery" : ["mystery"],
+	"Musicals" : ["musicals"],
+	"Fiction" : ["fiction"],
+	"Science Fiction" : ["sci-fi"],
+	"Sci-Fi" : ["sci-fi"],
+	"Horror" : ["horror"]
+  }
+}
