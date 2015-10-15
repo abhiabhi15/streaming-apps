@@ -71,6 +71,9 @@
     "Horror": [
       "horror"
     ],
+    "Romantic": [
+      "romance"
+    ],
     "Western": [
       "international"
     ],
@@ -123,135 +126,302 @@
     "Mystery & Suspense": [
       "mystery"
     ],
-	"Art House & International" :[
-	  "art"
-	],
-	"Essential Art House" :[
-	  "art"
-	],
-	"Aliens" :[
-	  "sci-fi"
-	],
-	"Futuristic" :[
-	  "sci-fi"
-	],
-	"Monsters & Mutants" :[
-	  "sci-fi"
-	],
-	"Alien Invasion" :[
-	  "sci-fi"
-	],
-	"Science Fiction & Fantasy" :[
-	  "sci-fi"
-	],
-	"Sci-Fi & Fantasy" :[
-	  "sci-fi"
-	],
-	"Sci-Fi Action" :[
-	  "sci-fi"
-	],
-	"Alien Saga" :[
-	  "sci-fi"
-	],
-	"X-men" :[
-	  "sci-fi"
-	],
-	"Music & Musicals" :[
-	  "music"
-	],
-	"Music Videos & Concerts" :[
-	  "music"
-	],
-	"Jackson, Michael" :[
-	  "music"
-	],
-	"Martin, Ricky" :[
-	  "music"
-	],
-	"Vocal Pop" :[
-	  "music"
-	],
-	"Sports" :[
-	  "sports"
-	],
-	"Indie & Art House":[
-	  "art"
-	],
-	"MGM Contemporary Classics":[
-	  "art"
-	],
-	"Adult Contemporary":[
-	  "art"
-	],
-	"Sweden":[
- 	  "international"
+    "Art House & International": [
+      "art"
     ],
-	"Swedish":[
- 	  "international"
+    "Essential Art House": [
+      "art"
     ],
-	"Spanish":[
- 	  "international"
+    "Aliens": [
+      "sci-fi"
     ],
-	"International":[
- 	  "international"
+    "Futuristic": [
+      "sci-fi"
     ],
-	"Foreign Films":[
- 	  "international"
+    "Monsters & Mutants": [
+      "sci-fi"
     ],
-	"Mexico":[
- 	  "international"
+    "Alien Invasion": [
+      "sci-fi"
     ],
-	"Spanish-Language":[
- 	  "international"
+    "Science Fiction & Fantasy": [
+      "sci-fi"
     ],
-	"French New Wave":[
- 	  "international"
+    "Sci-Fi & Fantasy": [
+      "sci-fi"
     ],
-	"Australia & New Zealand":[
- 	  "international"
+    "Sci-Fi Action": [
+      "sci-fi"
     ],
-	"Italy":[
- 	  "international"
+    "Alien Saga": [
+      "sci-fi"
     ],
-	"Taiwan":[
- 	  "international"
+    "X-men": [
+      "sci-fi"
     ],
-	"Anime & Manga":[
- 	  "animation","kids"
+    "Space Adventure": [
+      "sci-fi"
     ],
-	"Shrek":[
- 	  "animation","kids"
+    "Robots & Androids": [
+      "sci-fi"
     ],
-	"Comedia" :[
-		"comedy","international"
-	],
-	"Misterio y suspenso":[
-		"mystery","international"
-	],
-	"Ciencia ficci��n y fantas��a":[
-		"sci-fi","international"
-	],
-	"Family Features" : [
-	   "kids"
-	],
-	"Silent Films" :[
-	    "art"
-	],
-	"New Wave" :[
-	    "art"
-	],
-	"LGBT" :[
-	    "art"
-	],
-	"Eminem" : [
-	  "music"
-	],
-	"Springsteen" :[
-	  "music"
-	],
-	"Aguilera, Christina":[
-	  "music"
-	],
+    "Men in Black": [
+      "sci-fi"
+    ],
+    "Planet of the Apes": [
+      "sci-fi",
+      "fanstasy",
+      "kids"
+    ],
+    "Harry Potter and the Chamber of Secrets": [
+      "fanstasy",
+      "kids"
+    ],
+    "Anime": [
+      "animation",
+      "kids"
+    ],
+    "7-11 Years": [
+      "kids"
+    ],
+    "7-9 Years": [
+      "kids"
+    ],
+    "Traditional Pop": [
+      "music"
+    ],
+    "Dance Pop": [
+      "music"
+    ],
+    "Spears, Britney": [
+      "music"
+    ],
+    "Arena Rock": [
+      "music"
+    ],
+    "Music & Musicals": [
+      "music"
+    ],
+    "Music Videos & Concerts": [
+      "music"
+    ],
+    "Jackson, Michael": [
+      "music"
+    ],
+    "Martin, Ricky": [
+      "music"
+    ],
+    "Vocal Pop": [
+      "music"
+    ],
+    "Sports": [
+      "sports"
+    ],
+    "Indie & Art House": [
+      "art"
+    ],
+    "MGM Contemporary Classics": [
+      "art"
+    ],
+    "Adult Contemporary": [
+      "art"
+    ],
+    "Sweden": [
+      "international"
+    ],
+    "Swedish": [
+      "international"
+    ],
+    "Spanish": [
+      "international"
+    ],
+    "International": [
+      "international"
+    ],
+    "Foreign Films": [
+      "international"
+    ],
+    "Mexico": [
+      "international"
+    ],
+    "China": [
+      "international"
+    ],
+    "India": [
+      "international"
+    ],
+    "Italian": [
+      "international"
+    ],
+    "Chile & Peru": [
+      "international"
+    ],
+    "Brazil": [
+      "international"
+    ],
+    "Hong Kong": [
+      "international"
+    ],
+    "Portuguese": [
+      "international"
+    ],
+    "United Kingdom": [
+      "international"
+    ],
+    "Spanish-Language": [
+      "international"
+    ],
+    "Britain": [
+      "international"
+    ],
+    "Korea": [
+      "international"
+    ],
+    "Chinese": [
+      "international"
+    ],
+    "Foreign Spotlight": [
+      "international"
+    ],
+    "Holocaust": [
+      "international"
+    ],
+    "French New Wave": [
+      "international"
+    ],
+    "Australia & New Zealand": [
+      "international"
+    ],
+    "Italy": [
+      "international"
+    ],
+    "Taiwan": [
+      "international"
+    ],
+    "Anime & Manga": [
+      "animation",
+      "kids"
+    ],
+    "Shrek": [
+      "animation",
+      "kids"
+    ],
+    "Comedia": [
+      "comedy",
+      "international"
+    ],
+    "Misterio y suspenso": [
+      "mystery",
+      "international"
+    ],
+    "Ciencia ficci��n y fantas��a": [
+      "fantasy",
+      "international"
+    ],
+    "Family Features": [
+      "kids"
+    ],
+    "Silent Films": [
+      "art"
+    ],
+    "New Wave": [
+      "art"
+    ],
+    "LGBT": [
+      "art"
+    ],
+    "Eminem": [
+      "music"
+    ],
+    "Springsteen": [
+      "music"
+    ],
+    "Aguilera, Christina": [
+      "music"
+    ],
+    "Oscar�� Collection": [
+      "art"
+    ],
+    "Feature Films": [
+      "art"
+    ],
+    "History": [
+      "art"
+    ],
+    "Bible": [
+      "art"
+    ],
+    "Religion & Spirituality": [
+      "art"
+    ],
+    "Faith & Spirituality": [
+      "art"
+    ],
+    "Classical": [
+      "art"
+    ],
+    "Adult Alternative": [
+      "art"
+    ],
+    "Psychedelic": [
+      "art"
+    ],
+    "Subversive Cinema": [
+      "art"
+    ],
+    "Landmark Cult Classics": [
+      "art"
+    ],
+    "For the Whole Family": [
+      "kids"
+    ],
+    "Prison": [
+      "art",
+      "tragedy"
+    ],
+    "Blaxploitation": [
+      "art",
+      "tragedy"
+    ],
+    "Anchor Bay Horror Store": [
+      "horror"
+    ],
+    "Indiana Jones": [
+      "fantasy",
+      "adventure",
+      "kids"
+    ],
+    "Pierce Brosnan": [
+      "action",
+      "adventure",
+      "kids",
+      "sci-fi"
+    ],
+    "Denise Austin": [
+      "sports"
+    ],
+    "Exercise & Fitness": [
+      "sports"
+    ],
+    "Carey, Mariah": [
+      "music"
+    ],
+    "Presley, Elvis": [
+      "music"
+    ],
+    "Rock, Chris": [
+      "music"
+    ],
+    "Suzanne Deason": [
+      "sports"
+    ],
+    "Ralph Bakshi": [
+      "animation",
+      "action"
+    ],
+    "Acci��n y aventura": [
+      "international"
+    ],
     "DramaThrillerRomanceAdventureAction": [
       "drama",
       "thriller",
@@ -603,7 +773,7 @@
     ],
     "DramaWestern": [
       "drama",
-      "western"
+      "international"
     ],
     "MusicalComedyKids & Family": [
       "music",
@@ -669,7 +839,7 @@
       "horror"
     ],
     "WesternComedy": [
-      "western",
+      "international",
       "comedy"
     ],
     "FantasyDrama": [
@@ -753,7 +923,7 @@
     ],
     "DramaWesternAdventure": [
       "drama",
-      "western",
+      "international",
       "adventure"
     ],
     "Military & WarAdventureComedy": [
@@ -884,14 +1054,14 @@
       "horror"
     ],
     "WesternRomanceComedy": [
-      "western",
+      "international",
       "romance",
       "comedy"
     ],
     "Military & WarDramaWesternAdventure": [
       "war",
       "drama",
-      "western",
+      "international",
       "adventure"
     ],
     "Military & WarDramaAdventureAction": [
@@ -903,7 +1073,7 @@
     "Military & WarDramaWesternRomance": [
       "war",
       "drama",
-      "western",
+      "international",
       "romance"
     ],
     "SportsDramaThrillerAction": [
@@ -987,8 +1157,818 @@
     ],
     "ThrillerWesternAdventure": [
       "thriller",
-      "western",
+      "international",
       "adventure"
+    ],
+    "FantasyAdventureAction": [
+      "fantasy",
+      "adventure",
+      "action"
+    ],
+    "Science FictionDramaRomanceAdventure": [
+      "sci-fi",
+      "drama",
+      "romance",
+      "adventure"
+    ],
+    "FantasyDramaMystery": [
+      "fantasy",
+      "drama",
+      "mystery"
+    ],
+    "Science FictionFantasyAdventureActionComedy": [
+      "sci-fi",
+      "fantasy",
+      "adventure",
+      "action",
+      "comedy"
+    ],
+    "FantasyActionMysteryHorror": [
+      "fantasy",
+      "action",
+      "mystery",
+      "horror"
+    ],
+    "FantasyThrillerAdventureKids & Family": [
+      "fantasy",
+      "thriller",
+      "adventure",
+      "kids"
+    ],
+    "Science FictionDramaThrillerInternationalAction": [
+      "sci-fi",
+      "drama",
+      "thriller",
+      "international",
+      "action"
+    ],
+    "FantasyRomanceMusicalKids & Family": [
+      "fantasy",
+      "romance",
+      "music",
+      "kids"
+    ],
+    "DocumentaryComedy": [
+      "documentary",
+      "comedy"
+    ],
+    "FantasyAdventureMusicalComedyKids & Family": [
+      "fantasy",
+      "adventure",
+      "music",
+      "comedy",
+      "kids"
+    ],
+    "Science FictionMilitary & WarAction": [
+      "sci-fi",
+      "war",
+      "action"
+    ],
+    "Science FictionFantasyActionComedy": [
+      "sci-fi",
+      "fantasy",
+      "action",
+      "comedy"
+    ],
+    "RomanceAdventureAction": [
+      "romance",
+      "adventure",
+      "action"
+    ],
+    "Science FictionFantasyHorror": [
+      "sci-fi",
+      "fantasy",
+      "horror"
+    ],
+    "DramaMysteryHorror": [
+      "drama",
+      "mystery",
+      "horror"
+    ],
+    "Science FictionFantasyDramaThrillerMystery": [
+      "sci-fi",
+      "fantasy",
+      "drama",
+      "thriller",
+      "mystery"
+    ],
+    "DramaRomanceInternationalAction": [
+      "drama",
+      "romance",
+      "international",
+      "action"
+    ],
+    "DramaThrillerMysteryHorror": [
+      "drama",
+      "thriller",
+      "mystery",
+      "horror"
+    ],
+    "Science FictionThrillerAdventureActionHorror": [
+      "sci-fi",
+      "thriller",
+      "adventure",
+      "action",
+      "horror"
+    ],
+    "DramaThrillerRomanceMusicMystery": [
+      "drama",
+      "thriller",
+      "romance",
+      "music",
+      "mystery"
+    ],
+    "ThrillerActionHorror": [
+      "thriller",
+      "action",
+      "horror"
+    ],
+    "ThrillerMysteryComedyHorror": [
+      "thriller",
+      "mystery",
+      "comedy",
+      "horror"
+    ],
+    "DramaMusical": [
+      "drama",
+      "music"
+    ],
+    "Science FictionAdventureActionComedy": [
+      "sci-fi",
+      "adventure",
+      "action",
+      "comedy"
+    ],
+    "ThrillerRomanceAction": [
+      "thriller",
+      "romance",
+      "action"
+    ],
+    "ThrillerRomanceMystery": [
+      "thriller",
+      "romance",
+      "mystery"
+    ],
+    "FantasyDramaComedyKids & Family": [
+      "fantasy",
+      "drama",
+      "comedy",
+      "kids"
+    ],
+    "FantasyAdventureMysteryKids & Family": [
+      "fantasy",
+      "adventure",
+      "mystery",
+      "kids"
+    ],
+    "Science FictionActionComedy": [
+      "sci-fi",
+      "action",
+      "comedy"
+    ],
+    "WesternAdventure": [
+      "international",
+      "adventure"
+    ],
+    "Science FictionFantasyThrillerAction": [
+      "sci-fi",
+      "fantasy",
+      "thriller",
+      "action"
+    ],
+    "FantasyHorror": [
+      "fantasy",
+      "horror"
+    ],
+    "Science FictionThrillerRomanceMysteryHorror": [
+      "sci-fi",
+      "thriller",
+      "romance",
+      "mystery",
+      "horror"
+    ],
+    "Science FictionFantasyAdventureComedy": [
+      "sci-fi",
+      "fantasy",
+      "adventure",
+      "comedy"
+    ],
+    "ThrillerRomance": [
+      "thriller",
+      "romance"
+    ],
+    "WesternRomanceAction": [
+      "international",
+      "romance",
+      "action"
+    ],
+    "Science FictionFantasyThrillerAdventureAction": [
+      "sci-fi",
+      "fantasy",
+      "thriller",
+      "adventure",
+      "action"
+    ],
+    "FantasyAdventureActionComedy": [
+      "fantasy",
+      "adventure",
+      "action",
+      "comedy"
+    ],
+    "RomanceMusicComedy": [
+      "romance",
+      "music",
+      "comedy"
+    ],
+    "ThrillerAdventureActionComedy": [
+      "thriller",
+      "adventure",
+      "action",
+      "comedy"
+    ],
+    "SportsDocumentary": [
+      "sports",
+      "documentary"
+    ],
+    "Science FictionThrillerActionComedyHorror": [
+      "sci-fi",
+      "thriller",
+      "action",
+      "comedy",
+      "horror"
+    ],
+    "FantasyComedyKids & Family": [
+      "fantasy",
+      "comedy",
+      "kids"
+    ],
+    "MusicalMysteryComedy": [
+      "music",
+      "mystery",
+      "comedy"
+    ],
+    "AdventureAction": [
+      "adventure",
+      "action"
+    ],
+    "Military & WarDramaInternational": [
+      "war",
+      "drama",
+      "international"
+    ],
+    "Science FictionDramaThrillerAdventure": [
+      "sci-fi",
+      "drama",
+      "thriller",
+      "adventure"
+    ],
+    "SportsComedy": [
+      "sports",
+      "comedy"
+    ],
+    "Military & WarRomanceAdventure": [
+      "war",
+      "romance",
+      "adventure"
+    ],
+    "FantasyDramaAdventureKids & Family": [
+      "fantasy",
+      "drama",
+      "adventure",
+      "kids"
+    ],
+    "DramaAdventureActionComedy": [
+      "drama",
+      "adventure",
+      "action",
+      "comedy"
+    ],
+    "DramaThrillerRomanceMystery": [
+      "drama",
+      "thriller",
+      "romance",
+      "mystery"
+    ],
+    "DramaWesternRomance": [
+      "drama",
+      "international",
+      "romance"
+    ],
+    "DramaWesternMusicComedy": [
+      "drama",
+      "international",
+      "music",
+      "comedy"
+    ],
+    "FantasyMusicalKids & Family": [
+      "fantasy",
+      "music",
+      "kids"
+    ],
+    "InternationalComedy": [
+      "international",
+      "comedy"
+    ],
+    "ComedyKids & Family": [
+      "comedy",
+      "kids"
+    ],
+    "DramaRomanceInternationalComedy": [
+      "drama",
+      "romance",
+      "international",
+      "comedy"
+    ],
+    "Military & WarThrillerRomanceAdventureComedy": [
+      "war",
+      "thriller",
+      "romance",
+      "adventure",
+      "comedy"
+    ],
+    "RomanceAdventureMysteryComedy": [
+      "romance",
+      "adventure",
+      "mystery",
+      "comedy"
+    ],
+    "DramaThrillerInternationalMysteryHorror": [
+      "drama",
+      "thriller",
+      "international",
+      "mystery",
+      "horror"
+    ],
+    "SportsDramaThriller": [
+      "sports",
+      "drama",
+      "thriller"
+    ],
+    "Military & WarDramaComedy": [
+      "war",
+      "drama",
+      "comedy"
+    ],
+    "FantasyAdventureMusicComedyKids & Family": [
+      "fantasy",
+      "adventure",
+      "music",
+      "comedy",
+      "kids"
+    ],
+    "MusicDocumentary": [
+      "music",
+      "documentary"
+    ],
+    "AdventureInternationalAction": [
+      "adventure",
+      "international",
+      "action"
+    ],
+    "Military & WarThrillerAdventureAction": [
+      "war",
+      "thriller",
+      "adventure",
+      "action"
+    ],
+    "RomanceActionComedy": [
+      "romance",
+      "action",
+      "comedy"
+    ],
+    "ThrillerAdventureActionMystery": [
+      "thriller",
+      "adventure",
+      "action",
+      "mystery"
+    ],
+    "RomanceAdventureKids & Family": [
+      "romance",
+      "adventure",
+      "kids"
+    ],
+    "Military & WarDramaRomanceMusic": [
+      "war",
+      "drama",
+      "romance",
+      "music"
+    ],
+    "DramaAdventureComedyKids & Family": [
+      "drama",
+      "adventure",
+      "comedy",
+      "kids"
+    ],
+    "Science FictionThrillerRomanceHorror": [
+      "sci-fi",
+      "thriller",
+      "romance",
+      "horror"
+    ],
+    "AdventureComedyKids & Family": [
+      "adventure",
+      "comedy",
+      "kids"
+    ],
+    "DramaThrillerActionMysteryHorror": [
+      "drama",
+      "thriller",
+      "action",
+      "mystery",
+      "horror"
+    ],
+    "DramaThrillerRomanceMysteryHorror": [
+      "drama",
+      "thriller",
+      "romance",
+      "mystery",
+      "horror"
+    ],
+    "RomanceMusicalKids & Family": [
+      "romance",
+      "music",
+      "kids"
+    ],
+    "DramaWesternAction": [
+      "drama",
+      "international",
+      "action"
+    ],
+    "Science FictionKids & Family": [
+      "sci-fi",
+      "kids"
+    ],
+    "WesternAction": [
+      "international",
+      "action"
+    ],
+    "MusicComedyKids & Family": [
+      "music",
+      "comedy",
+      "kids"
+    ],
+    "SportsDramaRomance": [
+      "sports",
+      "drama",
+      "romance"
+    ],
+    "FantasyDramaThrillerRomanceHorror": [
+      "fantasy",
+      "drama",
+      "thriller",
+      "romance",
+      "horror"
+    ],
+    "FantasyRomanceAdventure": [
+      "fantasy",
+      "romance",
+      "adventure"
+    ],
+    "Science FictionAdventureComedy": [
+      "sci-fi",
+      "adventure",
+      "comedy"
+    ],
+    "Science FictionThrillerAdventureKids & Family": [
+      "sci-fi",
+      "thriller",
+      "adventure",
+      "kids"
+    ],
+    "FantasyThrillerAdventureAction": [
+      "fantasy",
+      "thriller",
+      "adventure",
+      "action"
+    ],
+    "DocumentaryHorror": [
+      "documentary",
+      "horror"
+    ],
+    "DramaThrillerWesternAction": [
+      "drama",
+      "thriller",
+      "international",
+      "action"
+    ],
+    "AdventureActionComedyHorror": [
+      "adventure",
+      "action",
+      "comedy",
+      "horror"
+    ],
+    "Science FictionThrillerActionComedy": [
+      "sci-fi",
+      "thriller",
+      "action",
+      "comedy"
+    ],
+    "Science FictionDramaThrillerAdventureAction": [
+      "sci-fi",
+      "drama",
+      "thriller",
+      "adventure",
+      "action"
+    ],
+    "Science FictionRomanceAdventureComedy": [
+      "sci-fi",
+      "romance",
+      "adventure",
+      "comedy"
+    ],
+    "FantasyActionComedy": [
+      "fantasy",
+      "action",
+      "comedy"
+    ],
+    "ThrillerAdventureMysteryHorror": [
+      "thriller",
+      "adventure",
+      "mystery",
+      "horror"
+    ],
+    "FantasyAdventureActionComedyKids & Family": [
+      "fantasy",
+      "adventure",
+      "action",
+      "comedy",
+      "kids"
+    ],
+    "SportsAdventureComedy": [
+      "sports",
+      "adventure",
+      "comedy"
+    ],
+    "Military & WarDramaActionComedy": [
+      "war",
+      "drama",
+      "action",
+      "comedy"
+    ],
+    "Science FictionThrillerAdventureMystery": [
+      "sci-fi",
+      "thriller",
+      "adventure",
+      "mystery"
+    ],
+    "DramaRomanceMusical": [
+      "drama",
+      "romance",
+      "music"
+    ],
+    "Science FictionDramaHorror": [
+      "sci-fi",
+      "drama",
+      "horror"
+    ],
+    "Military & WarRomanceComedy": [
+      "war",
+      "romance",
+      "comedy"
+    ],
+    "RomanceMusical": [
+      "romance",
+      "music"
+    ],
+    "SportsDocumentaryComedy": [
+      "sports",
+      "documentary",
+      "comedy"
+    ],
+    "ThrillerWesternAction": [
+      "thriller",
+      "international",
+      "action"
+    ],
+    "Military & WarDramaRomanceActionComedy": [
+      "war",
+      "drama",
+      "romance",
+      "action",
+      "comedy"
+    ],
+    "Science FictionMystery": [
+      "sci-fi",
+      "mystery"
+    ],
+    "Science FictionThrillerRomanceActionHorror": [
+      "sci-fi",
+      "thriller",
+      "romance",
+      "action",
+      "horror"
+    ],
+    "DramaAdventureKids & Family": [
+      "drama",
+      "adventure",
+      "kids"
+    ],
+    "SportsAdventureKids & Family": [
+      "sports",
+      "adventure",
+      "kids"
+    ],
+    "SportsDramaActionKids & Family": [
+      "sports",
+      "drama",
+      "action",
+      "kids"
+    ],
+    "DramaAdventureMysteryComedy": [
+      "drama",
+      "adventure",
+      "mystery",
+      "comedy"
+    ],
+    "MusicActionComedy": [
+      "music",
+      "action",
+      "comedy"
+    ],
+    "WesternAdventureComedy": [
+      "international",
+      "adventure",
+      "comedy"
+    ],
+    "DramaRomanceKids & Family": [
+      "drama",
+      "romance",
+      "kids"
+    ],
+    "MysteryComedy": [
+      "mystery",
+      "comedy"
+    ],
+    "Military & WarDramaRomanceAdventureAction": [
+      "war",
+      "drama",
+      "romance",
+      "adventure",
+      "action"
+    ],
+    "DramaMusicalComedy": [
+      "drama",
+      "music",
+      "comedy"
+    ],
+    "DramaInternationalComedy": [
+      "drama",
+      "international",
+      "comedy"
+    ],
+    "WesternRomanceAdventureAction": [
+      "international",
+      "romance",
+      "adventure",
+      "action"
+    ],
+    "AdventureMysteryComedy": [
+      "adventure",
+      "mystery",
+      "comedy"
+    ],
+    "DramaMusicMusicalComedy": [
+      "drama",
+      "music",
+      "music",
+      "comedy"
+    ],
+    "Military & WarComedy": [
+      "war",
+      "comedy"
+    ],
+    "DramaThrillerAdventureMystery": [
+      "drama",
+      "thriller",
+      "adventure",
+      "mystery"
+    ],
+    "SportsComedyKids & Family": [
+      "sports",
+      "comedy",
+      "kids"
+    ],
+    "RomanceAdventureActionComedyKids & Family": [
+      "romance",
+      "adventure",
+      "action",
+      "comedy",
+      "kids"
+    ],
+    "DramaAdventureInternationalActionComedy": [
+      "drama",
+      "adventure",
+      "international",
+      "action",
+      "comedy"
+    ],
+    "WesternAdventureActionComedy": [
+      "international",
+      "adventure",
+      "action",
+      "comedy"
+    ],
+    "DramaRomanceActionMystery": [
+      "drama",
+      "romance",
+      "action",
+      "mystery"
+    ],
+    "RomanceAdventureComedy": [
+      "romance",
+      "adventure",
+      "comedy"
+    ],
+    "Military & WarDramaThrillerAdventureAction": [
+      "war",
+      "drama",
+      "thriller",
+      "adventure",
+      "action"
+    ],
+    "Science FictionFantasyDramaRomanceAdventure": [
+      "sci-fi",
+      "fantasy",
+      "drama",
+      "romance",
+      "adventure"
+    ],
+    "Military & WarDramaInternationalAction": [
+      "war",
+      "drama",
+      "international",
+      "action"
+    ],
+    "Science FictionWesternActionComedy": [
+      "sci-fi",
+      "international",
+      "action",
+      "comedy"
+    ],
+    "RomanceComedyKids & Family": [
+      "romance",
+      "comedy",
+      "kids"
+    ],
+    "Science FictionFantasyDramaAdventureKids & Family": [
+      "sci-fi",
+      "fantasy",
+      "drama",
+      "adventure",
+      "kids"
+    ],
+    "Science FictionThrillerAdventureComedy": [
+      "sci-fi",
+      "thriller",
+      "adventure",
+      "comedy"
+    ],
+    "Science FictionDramaRomanceHorror": [
+      "sci-fi",
+      "drama",
+      "romance",
+      "horror"
+    ],
+    "ThrillerWesternHorror": [
+      "thriller",
+      "international",
+      "horror"
+    ],
+    "WesternKids & Family": [
+      "international",
+      "kids"
+    ],
+    "Military & WarWesternAdventure": [
+      "war",
+      "international",
+      "adventure"
+    ],
+    "InternationalMysteryComedyHorror": [
+      "international",
+      "mystery",
+      "comedy",
+      "horror"
+    ],
+    "MysteryComedyHorror": [
+      "mystery",
+      "comedy",
+      "horror"
+    ],
+    "SportsScience FictionAction": [
+      "sports",
+      "sci-fi",
+      "action"
+    ],
+    "Science FictionDramaRomanceComedy": [
+      "sci-fi",
+      "drama",
+      "romance",
+      "comedy"
+    ],
+    "ActionComedyKids & Family": [
+      "action",
+      "comedy",
+      "kids"
     ]
   }
 }
