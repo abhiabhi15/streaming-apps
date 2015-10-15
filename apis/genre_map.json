@@ -1,7 +1,7 @@
 {
   "dict": {
   	"Action & Adventure" : 	["action","adventure"],
-	"Kids & Family" : ["kids","family"],
+	"Kids & Family" : ["kids"],
 	"Mystery & Thrillers" : ["mystery","thriller"],
 	"Drama" : ["drama"],
 	"Comedy" : ["comedy"],
@@ -22,6 +22,22 @@
 	"Fiction" : ["fiction"],
 	"Science Fiction" : ["sci-fi"],
 	"Sci-Fi" : ["sci-fi"],
-	"Horror" : ["horror"]
+	"Horror" : ["horror"],
+	"Western" : ["international"],
+	"Westerns" : ["international"],
+	"German" : ["international"],
+	"Germany" : ["international"],
+	"France" :  ["international"],
+	"French" :  ["international"],
+	"Russia" :  ["international"],
+	"Russian" :  ["international"],
+	"Japan" :  ["international"],
+	"Japanese" : ["international"],
+	"Canada" : ["international"],
+	"Poland" :["international"],
+	"Christmas" : ["kids"],
+	"Timeless Holiday Favorites" : ["kids"],
+	"Animation" : ["kids", "animation"]
+
   }
 }
