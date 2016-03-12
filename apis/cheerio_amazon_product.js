@@ -155,6 +155,7 @@ function normalize(terms){
 			case "Music Videos & Concerts" : terms[i] = "music";break;
 			case "Musicals" : terms[i] = "music";break;
 			case "Anime" : terms[i] = "kids";break;
+			case "LGBT" : terms[i] = "art";break;
 			case "Faith & Spirituality" : terms[i] = "art"; break;
 		}
 		terms[i] = terms[i].toLowerCase();
