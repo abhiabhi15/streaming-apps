@@ -2720,7 +2720,7 @@
       "drama"
     ],
     "LGBTRomanceComedy": [
-      "lgbt",
+      "art",
       "romance",
       "comedy"
     ],
@@ -3300,7 +3300,6 @@
       "action"
     ],
     "AnimeComedyKids & Family": [
-      "anime",
       "comedy",
       "kids"
     ],
@@ -3343,7 +3342,7 @@
       "comedy"
     ],
     "AnimeComedyAction & Adventure": [
-      "anime",
+      "kids",
       "comedy",
       "action"
     ],
@@ -3353,7 +3352,7 @@
       "horror"
     ],
     "MusicalsRomanceComedy": [
-      "musicals",
+      "music",
       "romance",
       "comedy"
     ],
@@ -3364,7 +3363,7 @@
     ],
     "Foreign FilmsMusic Videos & ConcertsAction & Adventure": [
       "international",
-      "music videos & concerts",
+      "music",
       "action"
     ],
     "WesternsFantasyRomance": [
@@ -3378,7 +3377,7 @@
       "action"
     ],
     "MusicalsKids & Family": [
-      "musicals",
+      "music",
       "kids"
     ],
     "FantasyMilitary & WarHorror": [
@@ -3432,7 +3431,7 @@
       "action"
     ],
     "Music Videos & ConcertsComedyDrama": [
-      "music videos & concerts",
+      "music",
       "comedy",
       "drama"
     ],
@@ -3491,12 +3490,12 @@
       "comedy"
     ],
     "MusicalsComedyDrama": [
-      "musicals",
+      "music",
       "comedy",
       "drama"
     ],
     "MusicalsRomanceKids & Family": [
-      "musicals",
+      "music",
       "romance",
       "kids"
     ],
@@ -3593,7 +3592,7 @@
       "action"
     ],
     "MusicalsDocumentaryRomance": [
-      "musicals",
+      "music",
       "documentary",
       "romance"
     ],
@@ -3603,7 +3602,7 @@
       "romance"
     ],
     "Faith & SpiritualityDrama": [
-      "faith & spirituality",
+      "art",
       "drama"
     ],
     "Military & WarRomanceMystery & Thrillers": [
@@ -3622,7 +3621,7 @@
       "drama"
     ],
     "MusicalsComedy": [
-      "musicals",
+      "music",
       "comedy"
     ],
     "SportsAction & AdventureKids & Family": [
@@ -3644,6 +3643,113 @@
       "horror",
       "kids",
       "thriller"
+    ],
+    "Military & WarRomanceKids & Family": [
+      "war",
+      "romance",
+      "kids"
+    ],
+    "FantasyScience FictionHorror": [
+      "fantasy",
+      "sci-fi",
+      "horror"
+    ],
+    "Military & WarDocumentaryComedy": [
+      "war",
+      "documentary",
+      "comedy"
+    ],
+    "Faith & SpiritualityRomanceAction & Adventure": [
+      "art",
+      "romance",
+      "action"
+    ],
+    "FantasyComedyMystery & Thrillers": [
+      "fantasy",
+      "comedy",
+      "thriller"
+    ],
+    "Faith & SpiritualityMusicals": [
+      "art",
+      "music"
+    ],
+    "Music Videos & ConcertsRomanceComedy": [
+      "music",
+      "romance",
+      "comedy"
+    ],
+    "Science FictionHorrorDrama": [
+      "sci-fi",
+      "horror",
+      "drama"
+    ],
+    "WesternsFantasyHorror": [
+      "international",
+      "fantasy",
+      "horror"
+    ],
+    "DocumentaryComedyKids & Family": [
+      "documentary",
+      "comedy",
+      "kids"
+    ],
+    "FantasyAction & AdventureKids & Family": [
+      "fantasy",
+      "action",
+      "kids"
+    ],
+    "MusicalsMilitary & WarRomance": [
+      "music",
+      "war",
+      "romance"
+    ],
+    "Music Videos & ConcertsFaith & Spirituality": [
+      "music",
+      "art"
+    ],
+    "Foreign FilmsFantasyRomance": [
+      "international",
+      "fantasy",
+      "romance"
+    ],
+    "DocumentaryMystery & ThrillersAction & Adventure": [
+      "documentary",
+      "thriller",
+      "action"
+    ],
+    "Faith & SpiritualityFantasyScience Fiction": [
+      "art",
+      "fantasy",
+      "sci-fi"
+    ],
+    "MusicalsRomanceDrama": [
+      "music",
+      "romance",
+      "drama"
+    ],
+    "MusicalsAction & AdventureDrama": [
+      "music",
+      "action",
+      "drama"
+    ],
+    "MusicalsMilitary & WarAction & Adventure": [
+      "music",
+      "war",
+      "action"
+    ],
+    "SportsDocumentaryKids & Family": [
+      "sports",
+      "documentary",
+      "kids"
+    ],
+    "MusicalsWesternsRomance": [
+      "music",
+      "international",
+      "romance"
+    ],
+    "WesternsMusicals": [
+      "international",
+      "music"
     ]
   }
 }
