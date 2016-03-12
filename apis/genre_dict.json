@@ -57,7 +57,7 @@
       "mystery"
     ],
     "Musicals": [
-      "musicals"
+      "music"
     ],
     "Fiction": [
       "fiction"
@@ -110,20 +110,22 @@
     "Poland": [
       "international"
     ],
-	"Hindi" : [
+    "Hindi": [
       "international"
     ],
-	"Norwegian" :[
+    "Norwegian": [
       "international"
     ],
-	"Fitness & Yoga":[
+    "Fitness & Yoga": [
       "sports"
     ],
-	"Scooby Doo": [
-      "kids","animation"
+    "Scooby Doo": [
+      "kids",
+      "animation"
     ],
-	"Scooby Doo Animated Movies": [
-      "kids","animation"
+    "Scooby Doo Animated Movies": [
+      "kids",
+      "animation"
     ],
     "Christmas": [
       "kids"
@@ -180,95 +182,95 @@
     "Robots & Androids": [
       "sci-fi"
     ],
-	"All Sci Fi Channel Shows": [
+    "All Sci Fi Channel Shows": [
       "sci-fi"
     ],
     "Men in Black": [
       "sci-fi"
     ],
-	 "Spain": [
+    "Spain": [
       "international"
     ],
-	 "Jamaica": [
+    "Jamaica": [
       "international"
     ],
-	 "Cuba": [
+    "Cuba": [
       "international"
     ],
-	 "Argentina": [
+    "Argentina": [
       "international"
     ],
-	"Middle East": [
+    "Middle East": [
       "international"
     ],
-	"Dutch": [
+    "Dutch": [
       "international"
     ],
-	"Dance & Music" : [
-	   "music"
-	],
-	"Ballet & Dance" : [
-	   "music"
-	],
-	"Album-Oriented Rock (AOR)" : [
-	   "music"
-	],
-	"Birth-2 Years" : [
-		"kids"
-	],
-	"3-6 Years" : [
-	   "kids"
-	],
-	"Disney" : [
-	   "kids","fantasy"
-	],
-	"Indie Rock" : [
-	   "music"
-	],
-	"Vocal Jazz" : [
-	   "music"
-	],
-	"Soft Rock" : [
-	   "music"
-	],
-	"Progressive Rock" : [
-	   "music"
-	],
-	"Pop & Contemporary" : [
-	   "music"
-	],
-	"Blues Rock" : [
-	   "music"
-	],
-	"Swing Jazz" : [
-	   "music"
-	],
-	"Musicals & Performing Arts" : [
-	   "music"
-	],
-	"Jazz Fusion" : [
-	   "music"
-	],
-	"Symphonies" : [
-	   "music"
-	],
-	"Opera" : [
-	   "music"
-	],
-	"Pink Floyd" : [
-	   "music"
-	],
-	"The Histories": [
-	   "art"
-	],
-	"Meditation": [
-	   "sport"
-	],
-	"Fitness": [
-	   "art"
-	],
-
-	"Star Wars":[
+    "Dance & Music": [
+      "music"
+    ],
+    "Ballet & Dance": [
+      "music"
+    ],
+    "Album-Oriented Rock (AOR)": [
+      "music"
+    ],
+    "Birth-2 Years": [
+      "kids"
+    ],
+    "3-6 Years": [
+      "kids"
+    ],
+    "Disney": [
+      "kids",
+      "fantasy"
+    ],
+    "Indie Rock": [
+      "music"
+    ],
+    "Vocal Jazz": [
+      "music"
+    ],
+    "Soft Rock": [
+      "music"
+    ],
+    "Progressive Rock": [
+      "music"
+    ],
+    "Pop & Contemporary": [
+      "music"
+    ],
+    "Blues Rock": [
+      "music"
+    ],
+    "Swing Jazz": [
+      "music"
+    ],
+    "Musicals & Performing Arts": [
+      "music"
+    ],
+    "Jazz Fusion": [
+      "music"
+    ],
+    "Symphonies": [
+      "music"
+    ],
+    "Opera": [
+      "music"
+    ],
+    "Pink Floyd": [
+      "music"
+    ],
+    "The Histories": [
+      "art"
+    ],
+    "Meditation": [
+      "sport"
+    ],
+    "Fitness": [
+      "art"
+    ],
+    "Star Wars": [
       "sci-fi",
       "fanstasy",
       "kids"
@@ -1012,7 +1014,6 @@
       "romance"
     ],
     "MusicMusicalComedy": [
-      "music",
       "music",
       "comedy"
     ],
@@ -2655,6 +2656,639 @@
       "music",
       "action",
       "comedy"
+    ],
+    "Foreign FilmsRomanceComedy": [
+      "international",
+      "romance",
+      "comedy"
+    ],
+    "RomanceMystery & ThrillersAction & Adventure": [
+      "romance",
+      "thriller",
+      "action"
+    ],
+    "Kids & FamilyDrama": [
+      "kids",
+      "drama"
+    ],
+    "Military & WarAction & AdventureKids & Family": [
+      "war",
+      "action",
+      "kids"
+    ],
+    "Science FictionAction & AdventureDrama": [
+      "sci-fi",
+      "action",
+      "drama"
+    ],
+    "ComedyDrama": [
+      "comedy",
+      "drama"
+    ],
+    "HorrorKids & FamilyAction & Adventure": [
+      "horror",
+      "kids",
+      "action"
+    ],
+    "Mystery & ThrillersAction & AdventureDrama": [
+      "thriller",
+      "action",
+      "drama"
+    ],
+    "RomanceMystery & ThrillersDrama": [
+      "romance",
+      "thriller",
+      "drama"
+    ],
+    "Action & AdventureDrama": [
+      "action",
+      "drama"
+    ],
+    "Science FictionMystery & ThrillersKids & Family": [
+      "sci-fi",
+      "thriller",
+      "kids"
+    ],
+    "HorrorMystery & ThrillersComedy": [
+      "horror",
+      "thriller",
+      "comedy"
+    ],
+    "Action & AdventureKids & FamilyDrama": [
+      "action",
+      "kids",
+      "drama"
+    ],
+    "LGBTRomanceComedy": [
+      "lgbt",
+      "romance",
+      "comedy"
+    ],
+    "RomanceComedyDrama": [
+      "romance",
+      "comedy",
+      "drama"
+    ],
+    "HorrorMystery & ThrillersAction & Adventure": [
+      "horror",
+      "thriller",
+      "action"
+    ],
+    "Mystery & ThrillersComedyDrama": [
+      "thriller",
+      "comedy",
+      "drama"
+    ],
+    "Mystery & ThrillersComedy": [
+      "thriller",
+      "comedy"
+    ],
+    "FantasyAction & AdventureComedy": [
+      "fantasy",
+      "action",
+      "comedy"
+    ],
+    "ComedyKids & FamilyDrama": [
+      "comedy",
+      "kids",
+      "drama"
+    ],
+    "FantasyComedyAction & Adventure": [
+      "fantasy",
+      "comedy",
+      "action"
+    ],
+    "HorrorComedy": [
+      "horror",
+      "comedy"
+    ],
+    "Science FictionRomanceDrama": [
+      "sci-fi",
+      "romance",
+      "drama"
+    ],
+    "LGBTComedy": [
+      "art",
+      "comedy"
+    ],
+    "Foreign FilmsDrama": [
+      "international",
+      "drama"
+    ],
+    "RomanceDrama": [
+      "romance",
+      "drama"
+    ],
+    "ComedyAction & AdventureDrama": [
+      "comedy",
+      "action",
+      "drama"
+    ],
+    "LGBTKids & FamilyDrama": [
+      "art",
+      "kids",
+      "drama"
+    ],
+    "DocumentaryDrama": [
+      "documentary",
+      "drama"
+    ],
+    "Mystery & ThrillersAction & AdventureKids & Family": [
+      "thriller",
+      "action",
+      "kids"
+    ],
+    "Military & WarForeign FilmsRomance": [
+      "war",
+      "international",
+      "romance"
+    ],
+    "WesternsDrama": [
+      "international",
+      "drama"
+    ],
+    "WesternsKids & FamilyDrama": [
+      "international",
+      "kids",
+      "drama"
+    ],
+    "WesternsAction & AdventureDrama": [
+      "international",
+      "action",
+      "drama"
+    ],
+    "WesternsAction & Adventure": [
+      "international",
+      "action"
+    ],
+    "WesternsComedyDrama": [
+      "international",
+      "comedy",
+      "drama"
+    ],
+    "HorrorDrama": [
+      "horror",
+      "drama"
+    ],
+    "HorrorFantasyDrama": [
+      "horror",
+      "fantasy",
+      "drama"
+    ],
+    "FantasyHorrorDrama": [
+      "fantasy",
+      "horror",
+      "drama"
+    ],
+    "Science FictionMystery & ThrillersDrama": [
+      "sci-fi",
+      "thriller",
+      "drama"
+    ],
+    "Science FictionHorrorMystery & Thrillers": [
+      "sci-fi",
+      "horror",
+      "thriller"
+    ],
+    "Military & WarDocumentaryRomance": [
+      "war",
+      "documentary",
+      "romance"
+    ],
+    "Military & WarRomanceAction & Adventure": [
+      "war",
+      "romance",
+      "action"
+    ],
+    "HorrorMystery & ThrillersDrama": [
+      "horror",
+      "thriller",
+      "drama"
+    ],
+    "Music Videos & ConcertsMystery & ThrillersAction & Adventure": [
+      "music",
+      "thriller",
+      "action"
+    ],
+    "Mystery & ThrillersDrama": [
+      "thriller",
+      "drama"
+    ],
+    "Foreign FilmsRomanceMystery & Thrillers": [
+      "international",
+      "romance",
+      "thriller"
+    ],
+    "Science FictionMystery & Thrillers": [
+      "sci-fi",
+      "thriller"
+    ],
+    "Science FictionComedyAction & Adventure": [
+      "sci-fi",
+      "comedy",
+      "action"
+    ],
+    "FantasyScience FictionRomance": [
+      "fantasy",
+      "sci-fi",
+      "romance"
+    ],
+    "Foreign FilmsMystery & ThrillersAction & Adventure": [
+      "international",
+      "thriller",
+      "action"
+    ],
+    "DocumentaryAction & Adventure": [
+      "documentary",
+      "action"
+    ],
+    "RomanceMystery & ThrillersComedy": [
+      "romance",
+      "thriller",
+      "comedy"
+    ],
+    "Mystery & ThrillersRomanceAction & Adventure": [
+      "thriller",
+      "romance",
+      "action"
+    ],
+    "Mystery & ThrillersAction & Adventure": [
+      "thriller",
+      "action"
+    ],
+    "Mystery & ThrillersAction & AdventureComedy": [
+      "thriller",
+      "action",
+      "comedy"
+    ],
+    "RomanceMystery & ThrillersKids & Family": [
+      "romance",
+      "thriller",
+      "kids"
+    ],
+    "FantasyForeign FilmsMystery & Thrillers": [
+      "fantasy",
+      "international",
+      "thriller"
+    ],
+    "FantasyMystery & ThrillersAction & Adventure": [
+      "fantasy",
+      "thriller",
+      "action"
+    ],
+    "HorrorMystery & Thrillers": [
+      "horror",
+      "thriller"
+    ],
+    "HorrorAction & Adventure": [
+      "horror",
+      "action"
+    ],
+    "RomanceComedyMystery & Thrillers": [
+      "romance",
+      "comedy",
+      "thriller"
+    ],
+    "MusicalsDrama": [
+      "music",
+      "drama"
+    ],
+    "FantasyScience FictionMystery & Thrillers": [
+      "fantasy",
+      "sci-fi",
+      "thriller"
+    ],
+    "Mystery & ThrillersKids & FamilyDrama": [
+      "thriller",
+      "kids",
+      "drama"
+    ],
+    "FantasyScience FictionAction & Adventure": [
+      "fantasy",
+      "sci-fi",
+      "action"
+    ],
+    "SportsFantasyDocumentary": [
+      "sports",
+      "fantasy",
+      "documentary"
+    ],
+    "Music Videos & ConcertsMusicalsDrama": [
+      "music",
+      "music",
+      "drama"
+    ],
+    "Music Videos & ConcertsMystery & ThrillersDrama": [
+      "music",
+      "thriller",
+      "drama"
+    ],
+    "Military & WarKids & FamilyAction & Adventure": [
+      "war",
+      "kids",
+      "action"
+    ],
+    "WesternsRomanceComedy": [
+      "international",
+      "romance",
+      "comedy"
+    ],
+    "Military & WarMystery & ThrillersAction & Adventure": [
+      "war",
+      "thriller",
+      "action"
+    ],
+    "DramaAction & Adventure": [
+      "drama",
+      "action"
+    ],
+    "WesternsMilitary & WarComedy": [
+      "international",
+      "war",
+      "comedy"
+    ],
+    "Faith & SpiritualityMilitary & WarAction & Adventure": [
+      "art",
+      "war",
+      "action"
+    ],
+    "Military & WarAction & AdventureDrama": [
+      "war",
+      "action",
+      "drama"
+    ],
+    "Music Videos & ConcertsAction & Adventure": [
+      "music",
+      "action"
+    ],
+    "Military & WarKids & FamilyDrama": [
+      "war",
+      "kids",
+      "drama"
+    ],
+    "FantasyScience FictionComedy": [
+      "fantasy",
+      "sci-fi",
+      "comedy"
+    ],
+    "RomanceAction & AdventureDrama": [
+      "romance",
+      "action",
+      "drama"
+    ],
+    "Foreign FilmsMilitary & WarMystery & Thrillers": [
+      "international",
+      "war",
+      "thriller"
+    ],
+    "Foreign FilmsMystery & ThrillersDrama": [
+      "international",
+      "thriller",
+      "drama"
+    ],
+    "Military & WarForeign FilmsMystery & Thrillers": [
+      "war",
+      "international",
+      "thriller"
+    ],
+    "HorrorFantasyKids & Family": [
+      "horror",
+      "fantasy",
+      "kids"
+    ],
+    "FantasyHorrorMystery & Thrillers": [
+      "fantasy",
+      "horror",
+      "thriller"
+    ],
+    "FantasyHorrorKids & Family": [
+      "fantasy",
+      "horror",
+      "kids"
+    ],
+    "SportsComedyAction & Adventure": [
+      "sports",
+      "comedy",
+      "action"
+    ],
+    "FantasyAction & Adventure": [
+      "fantasy",
+      "action"
+    ],
+    "HorrorKids & Family": [
+      "horror",
+      "kids"
+    ],
+    "FantasyHorrorComedy": [
+      "fantasy",
+      "horror",
+      "comedy"
+    ],
+    "MusicalsFantasyRomance": [
+      "music",
+      "fantasy",
+      "romance"
+    ],
+    "Foreign FilmsRomanceDrama": [
+      "international",
+      "romance",
+      "drama"
+    ],
+    "DocumentaryKids & Family": [
+      "documentary",
+      "kids"
+    ],
+    "FantasyRomanceAction & Adventure": [
+      "fantasy",
+      "romance",
+      "action"
+    ],
+    "HorrorRomanceMystery & Thrillers": [
+      "horror",
+      "romance",
+      "thriller"
+    ],
+    "HorrorComedyDrama": [
+      "horror",
+      "comedy",
+      "drama"
+    ],
+    "HorrorKids & FamilyComedy": [
+      "horror",
+      "kids",
+      "comedy"
+    ],
+    "WesternsComedy": [
+      "international",
+      "comedy"
+    ],
+    "Music Videos & ConcertsScience FictionHorror": [
+      "music",
+      "sci-fi",
+      "horror"
+    ],
+    "Mystery & ThrillersKids & FamilyAction & Adventure": [
+      "thriller",
+      "kids",
+      "action"
+    ],
+    "DocumentaryComedyDrama": [
+      "documentary",
+      "comedy",
+      "drama"
+    ],
+    "Foreign FilmsRomanceAction & Adventure": [
+      "international",
+      "romance",
+      "action"
+    ],
+    "Foreign FilmsMystery & ThrillersKids & Family": [
+      "international",
+      "thriller",
+      "kids"
+    ],
+    "Military & WarForeign FilmsDrama": [
+      "war",
+      "international",
+      "drama"
+    ],
+    "Foreign FilmsAction & AdventureKids & Family": [
+      "international",
+      "action",
+      "kids"
+    ],
+    "Foreign FilmsKids & FamilyDrama": [
+      "international",
+      "kids",
+      "drama"
+    ],
+    "Mystery & ThrillersComedyKids & Family": [
+      "thriller",
+      "comedy",
+      "kids"
+    ],
+    "RomanceKids & FamilyDrama": [
+      "romance",
+      "kids",
+      "drama"
+    ],
+    "Science FictionMystery & ThrillersAction & Adventure": [
+      "sci-fi",
+      "thriller",
+      "action"
+    ],
+    "Music Videos & ConcertsDocumentary": [
+      "music",
+      "documentary"
+    ],
+    "DocumentaryMystery & ThrillersDrama": [
+      "documentary",
+      "thriller",
+      "drama"
+    ],
+    "SportsKids & Family": [
+      "sports",
+      "kids"
+    ],
+    "MusicalsKids & FamilyDrama": [
+      "music",
+      "kids",
+      "drama"
+    ],
+    "FantasyMystery & ThrillersKids & Family": [
+      "fantasy",
+      "thriller",
+      "kids"
+    ],
+    "MusicalsDramaKids & Family": [
+      "music",
+      "drama",
+      "kids"
+    ],
+    "AnimeKids & Family": [
+      "kids"
+    ],
+    "DocumentaryMystery & ThrillersKids & Family": [
+      "documentary",
+      "thriller",
+      "kids"
+    ],
+    "WesternsMilitary & WarAction & Adventure": [
+      "international",
+      "war",
+      "action"
+    ],
+    "FantasyComedyDrama": [
+      "fantasy",
+      "comedy",
+      "drama"
+    ],
+    "Kids & FamilyMystery & ThrillersDrama": [
+      "kids",
+      "thriller",
+      "drama"
+    ],
+    "MusicalsComedyKids & Family": [
+      "music",
+      "comedy",
+      "kids"
+    ],
+    "Foreign FilmsRomanceKids & Family": [
+      "international",
+      "romance",
+      "kids"
+    ],
+    "Foreign FilmsComedyMystery & Thrillers": [
+      "international",
+      "comedy",
+      "thriller"
+    ],
+    "Military & WarAction & AdventureComedy": [
+      "war",
+      "action",
+      "comedy"
+    ],
+    "WesternsAction & AdventureKids & Family": [
+      "international",
+      "action",
+      "kids"
+    ],
+    "HorrorComedyMystery & Thrillers": [
+      "horror",
+      "comedy",
+      "thriller"
+    ],
+    "WesternsRomanceAction & Adventure": [
+      "international",
+      "romance",
+      "action"
+    ],
+    "WesternsKids & Family": [
+      "international",
+      "kids"
+    ],
+    "WesternsDocumentary": [
+      "international",
+      "documentary"
+    ],
+    "HorrorMystery & ThrillersKids & Family": [
+      "horror",
+      "thriller",
+      "kids"
+    ],
+    "Action & AdventureComedyKids & Family": [
+      "action",
+      "comedy",
+      "kids"
+    ],
+    "Action & AdventureComedy": [
+      "action",
+      "comedy"
+    ],
+    "WesternsDramaKids & Family": [
+      "international",
+      "drama",
+      "kids"
     ]
   }
 }

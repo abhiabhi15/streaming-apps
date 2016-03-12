@@ -27,7 +27,8 @@ db.open(function(err, db) {
       console.log("DB open");
 	  genreObj = jsonFile.readFileSync(cacheFile);
       genreCache = genreObj.genre;
-	  genreDict  = 	jsonFile.readFileSync(dictFile).dict;
+	  genreMap = jsonFile.readFileSync(dictFile);
+	  genreDict = genreMap.dict;
       
 	  var collection = db.collection('q1_2004');
       findDocuments(collection, function(){
@@ -158,14 +159,17 @@ function normalize(terms){
 }
 
 function getFromGenreDict(genreItems){
-	var keyTerm = getKeyTerm(genreItems);
-	if(genreDict[keyTerm] === undefined){
-			genreItems = normalize(genreItems);
-			genreDict[keyTerm] = genreItems;
-			console.log("Adding Term = " + keyTerm + " , value = " + genreItems); 
-	    	jsonFile.writeFile(dictFile, genreMap, {spaces: 2}, function(err) { });
-	}else{
-			genreItems = genreDict[keyTerm]; 
+	if (genreItems.length > 0){
+			var keyTerm = getKeyTerm(genreItems);
+			if(genreDict[keyTerm] === undefined){
+				genreItems = normalize(genreItems);
+				genreDict[keyTerm] = genreItems;
+				console.log("Adding Term = " + keyTerm + " , value = " + genreItems); 
+		    	jsonFile.writeFile(dictFile, genreMap, {spaces: 2}, function(err) { });
+			}else{
+				genreItems = genreDict[keyTerm]; 
+			}
+			return genreItems;
 	}
-	return genreItems;
+	return [];
 }
