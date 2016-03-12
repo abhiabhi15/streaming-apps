@@ -94,10 +94,10 @@ var getProductDetail = function(url, reviewJson, callback){
 					}
 				}
 				
-				console.log("Prod-id = " + reviewJson.prod_id + " , Genre = " + genreItems);
 				if(genreItems.length == 0){
 					console.log("Blocked By Amazon , Prod-Id = " + reviewJson.prod_id);
 				}else{
+				    console.log("Prod-id = " + reviewJson.prod_id + " , Genre = " + genreItems);
 					genreCache[reviewJson.prod_id] = genreItems;
 					genreCount++;
 				}
