@@ -82,7 +82,7 @@ var getProductDetail = function(url, reviewJson, callback){
 								for (var i =0 ;i < parseItems.length; i++){
 									itm = genreDict[parseItems[i]]; 
 									if( itm === undefined){
-										console.log(parseItems[i] + " is undefined");
+										//console.log(parseItems[i] + " is undefined");
 									}else{
 										gitems.push(parseItems[i]);
 									}
@@ -152,6 +152,10 @@ function normalize(terms){
 			case "Action & Adventure" :  terms[i] = "action"; break;
 			case "Westerns" :  terms[i] = "international"; break;
 			case "Foreign Films" :  terms[i] = "international"; break;
+			case "Music Videos & Concerts" : terms[i] = "music";break;
+			case "Musicals" : terms[i] = "music";break;
+			case "Anime" : terms[i] = "kids";break;
+			case "Faith & Spirituality" : terms[i] = "art"; break;
 		}
 		terms[i] = terms[i].toLowerCase();
 	}
@@ -171,5 +175,5 @@ function getFromGenreDict(genreItems){
 			}
 			return genreItems;
 	}
-	return [];
+	return "unknown";
 }
