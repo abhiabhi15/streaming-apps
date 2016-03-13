@@ -35,6 +35,10 @@ db.open(function(err, db) {
       });
 });
 
+function mycallback(){
+
+}
+
 var genreCount = 0;
 var findDocuments = function(collection, callback) {
   // Get the documents collection
@@ -46,37 +50,48 @@ var findDocuments = function(collection, callback) {
         var reviews = docs[i].reviews;
         for(var j=0; j < reviews.length; j++){
             var newUrl = url + reviews[j].prod_id;
-            getProductDetail(newUrl, reviews[j], function(){
-            });
-        }
+			var rv = reviews[j];
+			if(genreCache[rv.prod_id] === undefined){
+				getProductDetail(newUrl, rv, mycallback);
+				//sleep(1000);
+			}else{
+				console.log("Found in Cache for " + rv.prod_id + " , genre = " + genreCache[rv.prod_id]);
+			}
+		}
     }
   });
 }
 
+function sleep(delay) {
+    var start = new Date().getTime();
+    while (new Date().getTime() < start + delay);
+}
 
 var getProductDetail = function(url, reviewJson, callback){
-	if(genreCache[reviewJson.prod_id] === undefined){
-		request( url, function (error, response, html) {
-	 	 	if (!error && response.statusCode == 200) {
-	    		var $ = cheerio.load(html);
+    console.log(url);
+//	console.log(reviewJson);
+	request( url, function (error, response, html) {
+		if(genreCache[reviewJson.prod_id] === undefined){
+
+	 		if (!error && response.statusCode == 200) {
+	   			var $ = cheerio.load(html);
 				//Search-1 : Finding in Breadcrumbs
-	    		var genreItems = $("#wayfinding-breadcrumbs_feature_div li:last-child").text().trim();
+		   		var genreItems = $("#wayfinding-breadcrumbs_feature_div li:last-child").text().trim();
 				
 			    if(genreItems.length == 0){
 					 //Search-2 Finding in New UI Items
-    			     genreItems = $("[href ^='https://www.amazon.com/s/ref=atv_dp_imdb_hover_genre']").map(function(){
-					                return $(this).text(); }).get();
+    		    	 genreItems = $("[href ^='https://www.amazon.com/s/ref=atv_dp_imdb_hover_genre']").map(function(){
+				    	            return $(this).text(); }).get();
 					 if(genreItems.length > 0){
 					 	 genreItems = getFromGenreDict(genreItems);	
 				 	 }
-	    		}else{
+	   			}else{
 					genreItems = getGenre(genreItems, reviewJson.prod_id);
 					if ( genreItems == "unknown"){
-
-						//Search-3 Find in Amazon Best Seller Rank Items
+							//Search-3 Find in Amazon Best Seller Rank Items
 						console.log("Finding in Best Sellers");
 						parseItems = $("[href ^='http://www.amazon.com/gp/bestsellers/movies-tv/']").map(function(){
-                	                    return $(this).text(); }).get();
+               		                    return $(this).text(); }).get();
 						gitems = [];
 						if(parseItems.length > 0){
 								for (var i =0 ;i < parseItems.length; i++){
@@ -86,13 +101,13 @@ var getProductDetail = function(url, reviewJson, callback){
 									}else{
 										gitems.push(parseItems[i]);
 									}
-								}
+								}	
 								genreItems = getFromGenreDict(gitems);
 						}else{
 							console.log("Cannot find anything in best seller, prodId = " + reviewJson.prod_id);
-						}			
+						}				
 					}
-				}
+				}	
 				
 				if(genreItems.length == 0){
 					console.log("Blocked By Amazon , Prod-Id = " + reviewJson.prod_id);
@@ -102,17 +117,16 @@ var getProductDetail = function(url, reviewJson, callback){
 					genreCount++;
 				}
 				if(genreCount % 100 == 0){
-	    	           jsonFile.writeFile(cacheFile, genreObj, {spaces: 2}, function(err) { });
-        	    }
-		    }else{
+			           jsonFile.writeFile(cacheFile, genreObj, {spaces: 2}, function(err) { });
+		   	    }
+			}else{
 			 	  console.log("Error in URL "  + url);	
 	  			  console.log(error);
 			}
-		});	
-  	}else{
-		console.log("Found in Cache for " + reviewJson.prod_id + " , genre = " + genreCache[reviewJson.prod_id]);
-	}
-
+		}else{
+ 			console.log("Found in Cache for " + reviewJson.prod_id + " , genre = " + genreCache[reviewJson.prod_id]);
+		}
+	});	
 }
 
 var unknown = ["unknown"];
@@ -157,6 +171,7 @@ function normalize(terms){
 			case "Anime" : terms[i] = "kids";break;
 			case "LGBT" : terms[i] = "art";break;
 			case "Faith & Spirituality" : terms[i] = "art"; break;
+			case "Exercise & Fitness" : terms[i] = "sports"; break;
 		}
 		terms[i] = terms[i].toLowerCase();
 	}
@@ -176,5 +191,5 @@ function getFromGenreDict(genreItems){
 			}
 			return genreItems;
 	}
-	return "unknown";
+	return unknown;
 }
