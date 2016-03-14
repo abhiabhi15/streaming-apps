@@ -4074,7 +4074,6 @@
       "action"
     ],
     "Music Videos & ConcertsMusicals": [
-      "music",
       "music"
     ],
     "SportsRomanceDrama": [
@@ -4127,7 +4126,7 @@
       "sci-fi"
     ],
     "Exercise & FitnessKids & Family": [
-      "exercise & fitness",
+      "sports",
       "kids"
     ],
     "FantasyRomanceDrama": [
@@ -4258,11 +4257,9 @@
     ],
     "Music Videos & ConcertsMusicalsRomance": [
       "music",
-      "music",
       "romance"
     ],
     "Music Videos & ConcertsMusicalsKids & Family": [
-      "music",
       "music",
       "kids"
     ],
@@ -4444,6 +4441,93 @@
     "Military & WarMusic Videos & Concerts": [
       "war",
       "music"
+    ],
+    "Foreign FilmsFaith & SpiritualityDrama": [
+      "international",
+      "art",
+      "drama"
+    ],
+    "Mystery & ThrillersRomanceComedy": [
+      "thriller",
+      "romance",
+      "comedy"
+    ],
+    "FantasyMusic Videos & ConcertsComedy": [
+      "fantasy",
+      "music",
+      "comedy"
+    ],
+    "SportsAction & Adventure": [
+      "sports",
+      "action"
+    ],
+    "MusicalsDocumentaryMusic Videos & Concerts": [
+      "music",
+      "documentary",
+      "music"
+    ],
+    "Military & WarScience FictionComedy": [
+      "war",
+      "sci-fi",
+      "comedy"
+    ],
+    "Music Videos & ConcertsComedy": [
+      "music",
+      "comedy"
+    ],
+    "WesternsMilitary & WarDrama": [
+      "international",
+      "war",
+      "drama"
+    ],
+    "MusicalsMystery & ThrillersComedy": [
+      "music",
+      "thriller",
+      "comedy"
+    ],
+    "Faith & SpiritualityFantasyAction & Adventure": [
+      "art",
+      "fantasy",
+      "action"
+    ],
+    "MusicalsMystery & ThrillersKids & Family": [
+      "music",
+      "thriller",
+      "kids"
+    ],
+    "FantasyScience FictionDrama": [
+      "fantasy",
+      "sci-fi",
+      "drama"
+    ],
+    "MusicalsAnimeRomance": [
+      "music",
+      "kids",
+      "romance"
+    ],
+    "MusicalsFantasyKids & Family": [
+      "music",
+      "fantasy",
+      "kids"
+    ],
+    "MusicalsDocumentaryDrama": [
+      "music",
+      "documentary",
+      "drama"
+    ],
+    "Faith & SpiritualityComedy": [
+      "art",
+      "comedy"
+    ],
+    "DocumentaryAction & AdventureKids & Family": [
+      "documentary",
+      "action",
+      "kids"
+    ],
+    "MusicalsComedyAction & Adventure": [
+      "music",
+      "comedy",
+      "action"
     ]
   }
 }
